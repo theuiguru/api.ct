@@ -1,0 +1,45 @@
+ct = {
+	"firstName": "Chris",
+	"middleName": "John",
+	"lastName": "Thomas",
+	"sex": "Male",
+	"birthDate": "December 11, 1989",
+	"interests": ["Philosophy", "Software", "Design", "Food", "Music", "Sports"],
+	"hobbies": ["Hacking", "Watching tv/movies", "Hanging out with family/friends"],
+	"languages": ["HTML(5)", "CSS(3)", "JavaScript", "PHP", "Java", "C++", "English", "Malayalam", "Spanish"],
+	"church": {
+		"name": "St. Stephen's Indian Orthodox Church of Long Island",
+		"type": "Indian Orthodox",
+		"city": "Queens Village",
+		"state": "New York",
+		"website": "http://ststephensorthodoxchurchny.org",
+		"vicar": "Rev.Fr.Dr.C.K.Rajan"
+	},
+	"favorites": {
+		"color": "yellow",
+		"food": "burger and fries",
+		"music": ["R&B", "HipHop", "Rap", "Pop", "Country"],
+		"sports": {
+			"Golf"
+			"Basketball": {
+				"Team": "Miami Heat"
+			},
+			"Tennis"
+			"Football"
+			"Bowling"
+		},
+		"Clothing Stores": ["Gap", "Banana Republic"],
+	},
+	"socialMedia": {
+		"blog": "http://southasiangeek.blogspot.com",
+		"delicious": "cthomas1211",
+		"facebook": "christhomas101",
+		"flickr": "theuiguru",
+		"foursquare": "cthomas1211",
+		"github": "theuiguru",
+		"instagram": "cthomas1211",
+		"linkedin": "christhomas101",
+		"twitter": "cthomas1211",
+		"youtube": "ndnweb24",
+	}
+}
