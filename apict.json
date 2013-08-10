@@ -1,45 +1,46 @@
-ct = {
+var ct = {
 	"firstName": "Chris",
 	"middleName": "John",
 	"lastName": "Thomas",
 	"sex": "Male",
 	"birthDate": "December 11, 1989",
-	"interests": ["Philosophy", "Software", "Design", "Food", "Music", "Sports"],
+	"birthplace": "Syosset, New York", 
+	"currentCity": "Levittown, New York", 
+	"interests": ["Philosophy", "Software", "Design", "Food", "Music", "Sports", "Health", "Fitness"],
 	"hobbies": ["Hacking", "Watching tv/movies", "Hanging out with family/friends"],
 	"languages": ["HTML(5)", "CSS(3)", "JavaScript", "PHP", "Java", "C++", "English", "Malayalam", "Spanish"],
-	"church": {
+	"parish": {
 		"name": "St. Stephen's Indian Orthodox Church of Long Island",
 		"type": "Indian Orthodox",
 		"city": "Queens Village",
 		"state": "New York",
 		"website": "http://ststephensorthodoxchurchny.org",
-		"vicar": "Rev.Fr.Dr.C.K.Rajan"
+		"diocese": "Northeast American Diocese",
+		"church": "Malankara (Indian) Orthodox Syrian Church"
 	},
 	"favorites": {
 		"color": "yellow",
 		"food": "burger and fries",
-		"music": ["R&B", "HipHop", "Rap", "Pop", "Country"],
+		"music": {
+			"genre": ["R&B", "Hip Hop", "POP", "Rap", "Country"],
+			"bands": ["Backstreet Boys", "OneRepublic", "Rascal Flatts", "Hot Chelle Rae"]
+		}, 
 		"sports": {
-			"Golf"
-			"Basketball": {
-				"Team": "Miami Heat"
-			},
-			"Tennis"
-			"Football"
-			"Bowling"
+			"activity": ["Golf", "Basketball", "Bowling", "Tennis", "Football", "Volleyball"], 
+			"teams": ["Miami Heat", "New York Jets", "Green Bay Packers"]
 		},
-		"Clothing Stores": ["Gap", "Banana Republic"],
+		"Clothing Stores": ["Gap", "Banana Republic", "Old Navy", "H&M"]
 	},
-	"socialMedia": {
-		"blog": "http://southasiangeek.blogspot.com",
-		"delicious": "cthomas1211",
-		"facebook": "christhomas101",
-		"flickr": "theuiguru",
-		"foursquare": "cthomas1211",
-		"github": "theuiguru",
-		"instagram": "cthomas1211",
-		"linkedin": "christhomas101",
-		"twitter": "cthomas1211",
-		"youtube": "ndnweb24",
+	"social": {
+		"blog": ["address": "http://southasiangeek.blogspot.com"],
+		"delicious": ["username": "cthomas1211"], 
+		"facebook": ["username": "christhomas101"], 
+		"flickr": ["username": "theuiguru"],
+		"foursquare": ["username": "cthomas1211"],
+		"github": ["username": "theuiguru"],
+		"instagram": ["username": "cthomas1211"],
+		"linkedin": ["username": "christhomas101"],
+		"twitter": ["username": "cthomas1211"],
+		"youtube": ["username": "ndnweb24"],
 	}
 }
