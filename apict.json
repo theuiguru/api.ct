@@ -1,6 +1,6 @@
 var ct = {
 	"firstname": "Chris",
-	"lastnmae": "Thomas",
+	"lastname": "Thomas",
 	"nickname": ["CT"],
 	"sex": "male",
 	"zodiac": "Sagittarius", 
