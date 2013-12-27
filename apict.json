@@ -1,13 +1,12 @@
-{
-	"FirstName": "Chris",
-	"MiddleName": "John",
-	"LastName": "Thomas",
-	"Nickname": ["CT"],
-	"sex": "Male",
-	"AstroSign": "Sagittarius", 
+var ct = {
+	"firstname": "Chris",
+	"lastnmae": "Thomas",
+	"nickname": ["CT"],
+	"sex": "male",
+	"zodiac": "Sagittarius", 
 	"birthplace": "Syosset, New York", 
-	"currentCity": "Levittown, New York", 
-	"highSchool": {
+	"currentcity": "Levittown, New York", 
+	"highschool": {
 		"name": "Division Avenue High School",
 		"location": "Levittown, New York",
 		"graduation": "June 2008",
@@ -20,35 +19,22 @@
 		"graduation": "May 2012",
 		"degree": "Bachelor of Science"
 	},
-	"interests": ["Philosophy", "Software", "Design", "Food", "Music", "Sports", "Health", "Fitness"],
+	"interests": ["Software", "Philosophy", "Theology", "Art", "Music"],
 	"hobbies": ["Hacking", "Watching tv/movies", "Hanging out with family/friends"],
-	"languages": ["HTML(5)", "CSS(3)", "JavaScript", "PHP", "Java", "C++", "English", "Malayalam", "Spanish"],
-	"parish": {
-		"name": "St. Stephen's Indian Orthodox Church of Long Island",
-		"type": "Indian Orthodox",
-		"city": "Queens Village",
-		"state": "New York",
-		"website": "http://ststephensorthodoxchurchny.org",
-		"diocese": "Northeast American Diocese",
-		"church": "Malankara (Indian) Orthodox Syrian Church"
-	},
+	"languages": ["(X)HTML(5)", "CSS(3)", "JavaScript", "PHP", "Java", "C++", "English", "Malayalam", "Spanish"],
 	"favorites": {
 		"color": "yellow",
-		"food": "burger and fries",
+		"food": "cheeseburger and fries",
 		"cereal": "Lucky Charms",
-		"place": "Oklahoma",
-		"TVShows": ["The Office", "Parks and Recreation", "Community", "The Big Bang Theory", "It's Always Sunny in Philadelphia", "Modern Family", "Suits", "Friends"],
+		"place": "Texas",
+		"tvshows": ["The Office", "It's Always Sunny in Philadelphia", "Modern Family", "Suits", "Friends"],
 		"actor": ["Steve Carell", "Kevin James"],
 		"superhero": "The Flash",
 		"music": {
-			"genre": ["R&B", "Hip Hop", "POP", "Rap", "Country"],
-			"bands": ["Backstreet Boys", "OneRepublic", "Rascal Flatts", "Hot Chelle Rae"]
+			"bands": ["Backstreet Boys", "O-Town", "One Republic", "Hot Chelle Rae"]
 		}, 
-		"sports": {
-			"activity": ["Golf", "Basketball", "Bowling", "Tennis", "Football", "Volleyball"], 
-			"teams": ["Miami Heat", "New York Jets", "Green Bay Packers"]
-		},
-		"Clothing Stores": ["Gap", "Banana Republic", "Old Navy", "H&M"]
+		"sports": ["Golf", "Basketball", "Tennis"], 
+		"clothingbrands": ["Gap", "Banana Republic"]
 	},
 	"social": {
 		"blog": ["address": "http://southasiangeek.blogspot.com"],
@@ -62,4 +48,4 @@
 		"twitter": ["username": "cthomas1211"],
 		"youtube": ["username": "ndnweb24"],
 	}
-}
+};
