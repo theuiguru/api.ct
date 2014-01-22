@@ -29,7 +29,7 @@
 		"place": "Texas",
 		"tvshows": ["The Office", "It's Always Sunny in Philadelphia", "Modern Family", "Suits", "Friends"],
 		"actor": ["Steve Carell", "Kevin James"],
-		"superhero": "The Flash",
+		"superheros": ["The Flash", "The Incredible Hulk", "The Green Lantern"],
 		"music": {
 			"bands": ["Backstreet Boys", "O-Town", "One Republic", "Hot Chelle Rae"]
 		}, 
