@@ -8,12 +8,13 @@
 	"currentcity": "Levittown, New York", 
 	"highschool": {
 		"name": "Division Avenue High School",
-		"location": "Levittown, New York",
+		"city": "Levittown",
 		"graduation": "June 2008",
 		"diploma": "Advanced Regents"
 	},
 	"college": {
 		"name": "SUNY College at Old Westbury",
+		"city": "Old Westbury",
 		"major": "Computer Science",
 		"graduation": "May 2012",
 		"degree": "Bachelor of Science"
