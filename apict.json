@@ -37,8 +37,9 @@
 		"clothingbrands": ["Gap", "Banana Republic"]
 	},
 	"social": {
-		"blog": ["address": "http://southasiangeek.blogspot.com"],
+		"blog": ["address": "http://tiny.cc/cthomas"],
 		"delicious": ["username": "cthomas1211"], 
+		"ex.fm": ["username": "theuiguru"], 
 		"facebook": ["username": "christhomas101"], 
 		"flickr": ["username": "theuiguru"],
 		"foursquare": ["username": "cthomas1211"],
