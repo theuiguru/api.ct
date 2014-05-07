@@ -19,7 +19,7 @@
 		"graduation": "May 2012",
 		"degree": "Bachelor of Science"
 	},
-	"interests": ["Software", "Philosophy", "Theology", "Art", "Music", "Golf"],
+	"interests": ["Technology", "Philosophy", "Art", "Music", "Golf"],
 	"hobbies": ["Hacking", "Watching tv/movies", "Hanging out with family/friends"],
 	"languages": ["(X)HTML(5)", "CSS(3)", "JavaScript", "PHP", "Java", "C++", "English", "Malayalam", "Spanish"],
 	"favorites": {
@@ -27,13 +27,13 @@
 		"food": "cheeseburger and fries",
 		"cereal": "Lucky Charms",
 		"places": ["Texas", "New York", "Illinois"],
-		"tvshows": ["The Office", "It's Always Sunny in Philadelphia", "Modern Family", "Suits", "Friends"],
+		"tvshows": ["The Office", "It's Always Sunny in Philadelphia", "Men at Work", "Modern Family", "Suits", "Friends", "The King of Queens", "Arrow", "The Middle", "Community", "Happy Endings", "The Mindy Project"],
 		"actor": ["Steve Carell", "Kevin James"],
 		"superheros": ["The Flash", "The Incredible Hulk", "The Green Lantern"],
 		"music": {
 			"bands": ["Backstreet Boys", "O-Town", "One Republic", "Hot Chelle Rae"]
 		}, 
-		"sports": ["Golf", "Basketball", "Tennis"], 
+		"sports": ["Golf", "Basketball": ["team": "Miami Heat"], "Tennis"], 
 		"clothingbrands": ["Gap", "Banana Republic"]
 	},
 	"social": {
