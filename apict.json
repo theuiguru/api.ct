@@ -19,9 +19,9 @@
 		"graduation": "May 2012",
 		"degree": "Bachelor of Science"
 	},
-	"interests": ["Technology", "Philosophy", "Food", "Music", "Golf"],
+	"interests": ["Technology", "Philosophy", "Food", "Music", "Sports"],
 	"hobbies": ["Hacking", "Watching tv/movies", "Hanging out with family/friends"],
-	"languages": ["(X)HTML(5)", "CSS(3)", "JavaScript", "PHP", "Java", "C++", "English", "Malayalam", "Spanish"],
+	"languages": ["(X)HTML(5)", "CSS(3)", "JavaScript", "PHP", "Python", "Java", "C++", "English", "Malayalam", "Spanish"],
 	"favorites": {
 		"color": "yellow",
 		"food": "cheeseburger and fries",
@@ -31,7 +31,7 @@
 		"actor": ["Steve Carell", "Kevin James"],
 		"superhero": ["The Flash", "The Incredible Hulk", "The Green Lantern"],
 		"music": {
-			"bands": "Backstreet Boys"
+			"bands": ["Backstreet Boys", "O-Town"]
 		}, 
 		"sports": ["Golf", "Basketball": ["player": "Dwyane Wade"], "Tennis"], 
 		"clothing": "Banana Republic"
