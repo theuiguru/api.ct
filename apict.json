@@ -19,6 +19,13 @@
 		"graduation": "May 2012",
 		"degree": "Bachelor of Science"
 	},
+	"gradschool": {
+		"name": "New York Institute of Technology",
+		"city": "Old Westbury",
+		"major": "Computer Science",
+		"graduation": "N/A",
+		"degree": "Master of Science"
+	},
 	"interests": ["Technology", "Philosophy", "Food", "Music", "Sports"],
 	"hobbies": ["Hacking", "Watching tv/movies", "Hanging out with family/friends"],
 	"languages": ["(X)HTML(5)", "CSS(3)", "JavaScript", "PHP", "Python", "Java", "C++", "English", "Malayalam", "Spanish"],
