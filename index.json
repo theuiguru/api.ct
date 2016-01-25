@@ -1,4 +1,4 @@
-{
+[
 	"firstname": "Chris",
 	"lastname": "Thomas",
 	"nickname": ["CT"],
@@ -56,4 +56,4 @@
 		"twitter": ["username": "cthomas1211"],
 		"youtube": ["username": "ndnweb24"]
 	}
-};
+]
