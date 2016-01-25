@@ -40,7 +40,7 @@
 		"music": {
 			"bands": ["Backstreet Boys", "O-Town"]
 		}, 
-		"sports": ["Golf", "Basketball": ["player": "Dwyane Wade"], "Tennis"], 
+		"sports": ["Golf", "Basketball": {"player": "Dwyane Wade"}, "Tennis"], 
 		"clothing": "Banana Republic"
 	},
 	"social": {
