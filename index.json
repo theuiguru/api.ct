@@ -44,16 +44,16 @@
 		"clothing": "Banana Republic"
 	},
 	"social": {
-		"blog": {"address": "http://tiny.cc/cthomas"},
-		"delicious": {"username": "cthomas1211"}, 
-		"ex.fm": {"username": "theuiguru"}, 
-		"facebook": {"username": "christhomas101"}, 
-		"flickr": {"username": "theuiguru"},
-		"foursquare": {"username": "cthomas1211"},
-		"github": {"username": "theuiguru"},
-		"instagram": {"username": "cthomas1211"},
-		"linkedin": {"username": "christhomas101"},
-		"twitter": {"username": "cthomas1211"},
+		"shortlink": {"url": "http://tiny.cc/cthomas"},
+		"blog": {"profile_url": "http://medium.com/@cthomas1211"}
+		"delicious": {"username": "cthomas1211", "profile_url": "http://delicious.com/cthomas1211"},
+		"facebook": {"username": "christhomas101", "profile_url": "http://facebook.com/christhomas101"}, 
+		"flickr": {"username": "theuiguru", "profile_url": "http://flickr.com/theuiguru"},
+		"foursquare": {"username": "cthomas1211", "profile_url": "http://foursquare.com/cthomas1211"},
+		"github": {"username": "theuiguru", "profile_url": "http://github.com/theuiguru"},
+		"instagram": {"username": "cthomas1211", "profile_url": "http://instagram.com/cthomas1211"},
+		"linkedin": {"username": "christhomas101", "profile_url": "http://linkedin.com/in/christhomas101"},
+		"twitter": {"username": "cthomas1211", "profile_url": "http://twitter.com/cthomas1211"},
 		"youtube": {"username": "ndnweb24"}
 	}
 }
