@@ -14,31 +14,34 @@
 		"diploma": "Advanced Regents"
 	},
 	"college": {
-		"name": "SUNY College at Old Westbury",
-		"city": "Old Westbury",
-		"major": "Computer Science",
-		"graduation": "May 2012",
-		"degree": "Bachelor of Science"
-	},
-	"gradschool": {
-		"name": "New York Institute of Technology",
-		"city": "Old Westbury",
-		"major": "Computer Science",
-		"graduation": "N/A",
-		"degree": "Master of Science"
+		"undergraduate": {
+			"name": "SUNY College at Old Westbury",
+			"city": "Old Westbury",
+			"major": "Computer Science",
+			"graduation": "May 2012",
+			"degree": "Bachelor of Science"
+		},
+		"graduate": {
+			"name": "New York Institute of Technology",
+			"city": "Old Westbury",
+			"major": "Computer Science",
+			"graduation": "N/A",
+			"degree": "Master of Science"
+		}
 	},
 	"interests": ["Technology", "Philosophy", "Food", "Music", "Sports"],
 	"hobbies": ["Hacking", "Watching tv/movies", "Hanging out with family/friends"],
 	"languages": ["(X)HTML(5)", "CSS(3)", "JavaScript", "PHP", "Python", "Java", "C++", "English", "Malayalam", "Spanish"],
 	"favorites": {
 		"color": "yellow",
-		"food": "cheeseburger and fries",
+		"food": ["pizza", "cheeseburgers", "tacos"],
 		"cereal": "Lucky Charms",
 		"places": ["Texas", "New York", "Illinois"],
-		"tvshows": ["The Office", "It's Always Sunny in Philadelphia", "Men at Work", "Modern Family", "Suits", "Friends", "The King of Queens", "Arrow", "The Middle", "Parks and Recreation", "Community", "Happy Endings", "The Mindy Project", "Glee"],
+		"tvshows": ["The Office", "It's Always Sunny in Philadelphia", "The Flash", "Mr. Robot", "Silicon Valey", "Men at Work", "Modern Family", "Suits", "Friends", "The King of Queens", "Arrow", "The Middle", "Parks and Recreation", "Community", "Happy Endings", "The Mindy Project", "Glee"],
 		"actor": ["Steve Carell", "Kevin James"],
 		"superhero": ["The Flash", "The Incredible Hulk", "The Green Lantern"],
 		"music": {
+			"genre": ["Pop", "R&B", "Hip-Hop"],
 			"bands": ["Backstreet Boys", "O-Town"]
 		}, 
 		"sports": ["Golf", "Basketball", "Tennis"], 
