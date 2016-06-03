@@ -2,6 +2,7 @@
 	"firstname": "Chris",
 	"lastname": "Thomas",
 	"nickname": ["CT"],
+	"url": "http://tiny.cc/cthomas",
 	"sex": "male",
 	"zodiac": "Sagittarius", 
 	"birthplace": "Syosset, New York", 
@@ -44,7 +45,6 @@
 		"clothing": "Banana Republic"
 	},
 	"social": {
-		"shortlink": {"url": "http://tiny.cc/cthomas"},
 		"blog": {"profile_url": "http://medium.com/@cthomas1211"},
 		"delicious": {"username": "cthomas1211", "profile_url": "http://delicious.com/cthomas1211"},
 		"facebook": {"username": "christhomas101", "profile_url": "http://facebook.com/christhomas101"}, 
