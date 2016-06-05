@@ -7,11 +7,23 @@
 	"zodiac": "Sagittarius", 
 	"birthplace": "Syosset, New York", 
 	"currentcity": "Levittown, New York", 
-	"highschool": {
-		"name": "Division Avenue High School",
-		"city": "Levittown",
-		"graduation": "June 2008",
-		"diploma": "Advanced Regents"
+	"gradeschool": {
+		"elementary": {
+			"name": "Northside",
+			"city": "Levittown",
+			"graduation": "June 2001"
+		},
+		"middleschool": {
+			"name": "Wisdom Lane",
+			"city": "Levittown",
+			"graduation": "June 2004"
+		},
+		"highschool": {
+			"name": "Division Avenue High School",
+			"city": "Levittown",
+			"graduation": "June 2008",
+			"diploma": "Advanced Regents"
+		}
 	},
 	"college": {
 		"undergraduate": {
