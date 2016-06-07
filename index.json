@@ -60,8 +60,8 @@
 		"clothing": "Banana Republic"
 	},
 	"social": {
-		"blog": {"profile_url": "http://medium.com/@cthomas1211"},
 		"delicious": {"username": "cthomas1211", "profile_url": "http://delicious.com/cthomas1211"},
+		"medium": {"profile_url": "http://medium.com/@cthomas1211"},
 		"facebook": {"username": "christhomas101", "profile_url": "http://facebook.com/christhomas101"}, 
 		"flickr": {"username": "theuiguru", "profile_url": "http://flickr.com/theuiguru"},
 		"foursquare": {"username": "cthomas1211", "profile_url": "http://foursquare.com/cthomas1211"},
