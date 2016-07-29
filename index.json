@@ -3,51 +3,80 @@
 	"lastname": "Thomas",
 	"nickname": ["CT"],
 	"url": "http://tiny.cc/cthomas",
+	"email": "webmaster102@gmail.com",
 	"sex": "male",
 	"zodiac": "Sagittarius", 
 	"birthplace": "Syosset, New York", 
-	"currentcity": "Levittown, New York", 
-	"gradeschool": {
+	"location": {
+		"city": "Levittown",
+		"state": "New York",
+		"country": "US"
+	},
+	"education": [
 		"elementary": {
 			"name": "Northside",
-			"city": "Levittown",
-			"graduation": "June 2001"
+			"location": {
+				"city": "Levittown",
+				"state": "New York",
+				"country": "US"
+			},
+			"end_date": "June 2001"
 		},
 		"middleschool": {
 			"name": "Wisdom Lane",
-			"city": "Levittown",
-			"graduation": "June 2004"
+			"location": {
+				"city": "Levittown",
+				"state": "New York",
+				"country": "US"
+			},
+			"start_date": "September 2001",
+			"end_date": "June 2004"
 		},
 		"highschool": {
-			"name": "Division Avenue High School",
-			"city": "Levittown",
-			"graduation": "June 2008",
+			"name": "Division Avenue",
+			"location": {
+				"city": "Levittown",
+				"state": "New York",
+				"country": "US"
+			},
+			"start_date": "September 2004",
+			"end_date": "June 2008",
 			"diploma": "Advanced Regents"
-		}
-	},
-	"college": {
-		"undergraduate": {
-			"name": "SUNY College at Old Westbury",
-			"city": "Old Westbury",
-			"major": "Computer Science",
-			"graduation": "May 2012",
-			"degree": "Bachelor of Science"
 		},
-		"graduate": {
-			"name": "New York Institute of Technology",
-			"city": "Old Westbury",
-			"major": "Computer Science",
-			"graduation": "N/A",
-			"degree": "Master of Science"
+		"college": {
+			"undergraduate": {
+				"name": "SUNY College at Old Westbury",
+				"location": {
+					"city": "Old westbury",
+					"state": "New York",
+					"country": "US"
+				},
+				"major": "Computer Science",
+				"start_date": "September 2008",
+				"end_date": "May 2012",
+				"degree": "Bachelor of Science"
+			},
+			"graduate": {
+				"name": "New York Institute of Technology",
+				"location": {
+					"city": "Old westbury",
+					"state": "New York",
+					"country": "US"
+				},
+				"major": "Computer Science",
+				"start_date": "January 2015",
+				"end_date": "N/A",
+				"degree": "Master of Science"
+			}
 		}
-	},
+	],
 	"interests": ["Technology", "Philosophy", "Food", "Music", "Sports"],
 	"hobbies": ["Hacking", "Watching tv/movies", "Hanging out with family/friends"],
 	"languages": ["(X)HTML(5)", "CSS(3)", "JavaScript", "PHP", "Python", "Java", "C++", "English", "Malayalam", "Spanish"],
 	"favorites": {
 		"color": "yellow",
 		"food": ["pizza", "cheeseburgers", "tacos"],
-		"cereal": "Lucky Charms",
+		"cereal": ["Lucky Charms", "Raisin Bran Crunch", "Fruity/Cocoa Pebbles"],
 		"places": ["Texas", "New York", "Illinois"],
 		"tvshows": ["Angie Tribeca", "The Office", "It's Always Sunny in Philadelphia", "The Flash", "Mr. Robot", "Silicon Valey", "Men at Work", "Modern Family", "Suits", "Friends", "The King of Queens", "Arrow", "The Middle", "Parks and Recreation", "Community", "Happy Endings", "The Mindy Project", "Glee", "Scorpion", "The Big Bang Theory", "The League", "The IT Crowd", "Blackish"],
 		"actor": ["Steve Carell", "Kevin James"],
@@ -57,7 +86,7 @@
 			"bands": ["Backstreet Boys", "O-Town"]
 		}, 
 		"sports": ["Golf", "Basketball", "Tennis"], 
-		"clothing": "Banana Republic"
+		"clothing": ["Banana Republic", "Gap", "H&M", "Hollister", "Abercrombie & Fitch"]
 	},
 	"social": {
 		"blogger": {"username": "webmaster102", "profile_url": "http://theuiguru.blogspot.com", "feed": "https://gist.githubusercontent.com/theuiguru/96f1fefeb24b49bb339d/raw/30743e6d9241f2782ee5d1a4a654e36738b29a8e/feed.txt"},
