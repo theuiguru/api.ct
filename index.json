@@ -78,6 +78,16 @@
 			}
 		}
 	],
+	"employment": [
+		{
+			"organization": "",
+			"url": "",
+			"title": "",
+			"description": "",
+			"start_date": "",
+			"end_date"
+		}
+	],
 	"interests": ["Technology", "Philosophy", "Food", "Music", "Sports"],
 	"hobbies": ["Hacking", "Watching tv/movies", "Hanging out with family/friends"],
 	"languages": ["(X)HTML(5)", "CSS(3)", "JavaScript", "PHP", "Python", "Java", "C++", "English", "Malayalam", "Spanish"],
@@ -111,29 +121,92 @@
 		"twitter": {"username": "cthomas1211", "profile_url": "http://twitter.com/cthomas1211"},
 		"youtube": {"username": "ndnweb24", "profile_url": "http://youtube.com/ndnweb24"}
 	},
-	"projects": {
-		"personal_api": {"url": "http://theuiguru.github.io/api"},
-		"ponnasseril": {"url": "http://theuiguru.github.io/ponnasseril"},
-		"molethu": {"url": "http://theuiguru.github.io/molethu"},
-		"owwrny": {"url": "http://theuiguru.github.io/owwrny"},
-		"orthodukso": {"url": "http://orthodukso.blogspot.com"},
-		"thelazyeyeofsports": {"url": "http://thelazyeyeofsports.wordpress.com"},
-		"ststephensny": {"url": "http://theuiguru.github.io/ststephensny"},
-		"superBowl": {"url": "http://theuiguru.github.io/ststephensny/superbowl"},
-		"mgocsm": {"url": "http://theuiguru.github.io/mgocsm"},
-		"mgocsmBball": {"url": "http://theuiguru.github.io/mgocsm/ball09"},
-		"nylc2015": {"url": "http://theuiguru.github.io/nylc2015/v0"},
-		"shhimo": {"url": "http://theuiguru.github.io/shhimo-web"},
-		"growcamp_us": {"url": "http://theuiguru.github.io/growcamp.us"},
-		"emotion_ly": {"url": "http://theuiguru.github.io/emotion.ly"},
-		"food": {"url": "http://theuiguru.github.io/food"},
-		"bdesi": {"url": "http://theuiguru.github.io/bdesi"},
-		"piday": {"url": "http://theuiguru.github.io/piday"},
-		"stopWatch": {"url": "http://theuiguru.github.io/stopWatch"},
-		"moves": {"url": "http://theuiguru.github.io/moves-app"},
-		"games": {"url": "http://theuiguru.github.io/games"},
-		"powerRangers": {"url": "http://theuiguru.github.io/PowerRangers"}
-	},
+	"projects": [
+		{
+			"title": "personal_api",
+			"url": "http://theuiguru.github.io/api"
+		},
+		{
+			"title": "ponnasseril",
+			"url": "http://theuiguru.github.io/ponnasseril"
+		},
+		{
+			"title": "molethu",
+			"url": "http://theuiguru.github.io/molethu"
+		},
+		{
+			"title": "owwrny",
+			"url": "http://theuiguru.github.io/owwrny"
+		},
+		{
+			"title": "orthodukso",
+			"url": "http://orthodukso.blogspot.com"
+		},
+		{
+			"title": "thelazyeyeofsports",
+			"url": "http://thelazyeyeofsports.wordpress.com"
+		},
+		{
+			"title": "ststephensny",
+			"url": "http://theuiguru.github.io/ststephensny"
+		},
+		{
+			"title": "superBowl",
+			"url": "http://theuiguru.github.io/ststephensny/superbowl"
+		},
+		{
+			"title": "mgocsm",
+			"url": "http://theuiguru.github.io/mgocsm"
+		},
+		{
+			"title": "mgocsmBball",
+			"url": "http://theuiguru.github.io/mgocsm/ball09"
+		},
+		{
+			"title": "nylc2015",
+			"url": "http://theuiguru.github.io/nylc2015/v0"
+		},
+		{
+			"title": "shhimo",
+			"url": "http://theuiguru.github.io/shhimo-web"
+		},
+		{
+			"title": "growcamp_us",
+			"url": "http://theuiguru.github.io/growcamp.us"
+		},
+		{
+			"title": "emotion_ly",
+			"url": "http://theuiguru.github.io/emotion.ly"
+		},
+		{
+			"title": "food",
+			"url": "http://theuiguru.github.io/food"
+		},
+		{
+			"title": "bdesi",
+			"url": "http://theuiguru.github.io/bdesi"
+		},
+		{
+			"title": "piday",
+			"url": "http://theuiguru.github.io/piday"
+		},
+		{
+			"title": "stopWatch",
+			"url": "http://theuiguru.github.io/stopWatch"
+		},
+		{
+			"title": "moves",
+			"url": "http://theuiguru.github.io/moves-app"
+		},
+		{
+			"title": "games",
+			"url": "http://theuiguru.github.io/games"
+		},
+		{
+			"title": "powerRangers",
+			"url": "http://theuiguru.github.io/PowerRangers"
+		}
+	],
 	"quotes": ["Every protagonist of every story, show, or movie is the story of my life.", 
 	"Intelligence is not a privilege, it's a gift, and you use it for the good of mankind.", 
 	"If you wanna win, you gotta fuel like a winner!", 
