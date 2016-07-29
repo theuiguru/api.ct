@@ -49,7 +49,7 @@
 		"food": ["pizza", "cheeseburgers", "tacos"],
 		"cereal": "Lucky Charms",
 		"places": ["Texas", "New York", "Illinois"],
-		"tvshows": ["The Office", "It's Always Sunny in Philadelphia", "The Flash", "Mr. Robot", "Silicon Valey", "Men at Work", "Modern Family", "Suits", "Friends", "The King of Queens", "Arrow", "The Middle", "Parks and Recreation", "Community", "Happy Endings", "The Mindy Project", "Glee"],
+		"tvshows": ["Angie Tribeca", "The Office", "It's Always Sunny in Philadelphia", "The Flash", "Mr. Robot", "Silicon Valey", "Men at Work", "Modern Family", "Suits", "Friends", "The King of Queens", "Arrow", "The Middle", "Parks and Recreation", "Community", "Happy Endings", "The Mindy Project", "Glee", "Scorpion", "The Big Bang Theory", "The League", "The IT Crowd", "Blackish"],
 		"actor": ["Steve Carell", "Kevin James"],
 		"superhero": ["The Flash", "The Incredible Hulk", "The Green Lantern"],
 		"music": {
