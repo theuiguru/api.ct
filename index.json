@@ -13,60 +13,68 @@
 		"country": "US"
 	},
 	"education": [
-		"elementary": {
-			"name": "Northside",
-			"location": {
-				"city": "Levittown",
-				"state": "New York",
-				"country": "US"
-			},
-			"end_date": "June 2001"
-		},
-		"middleschool": {
-			"name": "Wisdom Lane",
-			"location": {
-				"city": "Levittown",
-				"state": "New York",
-				"country": "US"
-			},
-			"start_date": "September 2001",
-			"end_date": "June 2004"
-		},
-		"highschool": {
-			"name": "Division Avenue",
-			"location": {
-				"city": "Levittown",
-				"state": "New York",
-				"country": "US"
-			},
-			"start_date": "September 2004",
-			"end_date": "June 2008",
-			"diploma": "Advanced Regents"
-		},
-		"college": {
-			"undergraduate": {
-				"name": "SUNY College at Old Westbury",
+		{
+			"elementary": {
+				"name": "Northside",
 				"location": {
-					"city": "Old westbury",
+					"city": "Levittown",
 					"state": "New York",
 					"country": "US"
 				},
-				"major": "Computer Science",
-				"start_date": "September 2008",
-				"end_date": "May 2012",
-				"degree": "Bachelor of Science"
-			},
-			"graduate": {
-				"name": "New York Institute of Technology",
+				"end_date": "June 2001"
+			}
+		},
+		{
+			"middleschool": {
+				"name": "Wisdom Lane",
 				"location": {
-					"city": "Old westbury",
+					"city": "Levittown",
 					"state": "New York",
 					"country": "US"
 				},
-				"major": "Computer Science",
-				"start_date": "January 2015",
-				"end_date": "N/A",
-				"degree": "Master of Science"
+				"start_date": "September 2001",
+				"end_date": "June 2004"
+			}
+		},
+		{
+			"highschool": {
+				"name": "Division Avenue",
+				"location": {
+					"city": "Levittown",
+					"state": "New York",
+					"country": "US"
+				},
+				"start_date": "September 2004",
+				"end_date": "June 2008",
+				"diploma": "Advanced Regents"
+			}
+		},
+		{
+			"college": {
+				"undergraduate": {
+					"name": "SUNY College at Old Westbury",
+					"location": {
+						"city": "Old westbury",
+						"state": "New York",
+						"country": "US"
+					},
+					"major": "Computer Science",
+					"start_date": "September 2008",
+					"end_date": "May 2012",
+					"degree": "Bachelor of Science"
+				},
+				"graduate": {
+					"name": "New York Institute of Technology",
+					"location": {
+						"city": "Old westbury",
+						"state": "New York",
+						"country": "US"
+					},
+					"major": "Computer Science",
+					"start_date": "January 2015",
+					"end_date": "N/A",
+					"degree": "Master of Science"
+				}
 			}
 		}
 	],
