@@ -50,7 +50,7 @@
 			}
 		},
 		{
-			"college": {
+			"college": [
 				"undergraduate": {
 					"name": "SUNY College at Old Westbury",
 					"location": {
@@ -75,7 +75,7 @@
 					"start_date": "January 2015",
 					"end_date": "N/A"
 				}
-			}
+			]
 		}
 	],
 	"employment": [
