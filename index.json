@@ -129,7 +129,15 @@
 			"organization": "Nassau University Medical Center",
 			"url": "http://www.numc.edu",
 			"title": "IT Intern",
-			"description": "",
+			"description": "Assisted in repairing software and hardware at several workstations.",
+			"start_date": "June 2010",
+			"end_date": "September 2010"
+		},
+		{
+			"organization": "New York Institute of Technology",
+			"url": "http://www.nyit.edu",
+			"title": "Technology Assistant",
+			"description": "Assisted in the Career Services department on campus in creating Powerpoint presentations and an Access career database.",
 			"start_date": "June 2010",
 			"end_date": "September 2010"
 		}
