@@ -14,73 +14,61 @@
 	},
 	"education": [
 		{
-			"elementary": {
-				"name": "Northside",
-				"location": {
-					"city": "Levittown",
-					"state": "New York",
-					"country": "US"
-				},
-				"start_date": "September 1995",
-				"end_date": "June 2001"
-			}
+			"school": "Northside Elementary School",
+			"location": {
+				"city": "Levittown",
+				"state": "New York",
+				"country": "US"
+			},
+			"start_date": "September 1995",
+			"end_date": "June 2001"
 		},
 		{
-			"middleschool": {
-				"name": "Wisdom Lane",
-				"location": {
-					"city": "Levittown",
-					"state": "New York",
-					"country": "US"
-				},
-				"start_date": "September 2001",
-				"end_date": "June 2004"
-			}
+			"school": "Wisdom Lane Middle School",
+			"location": {
+				"city": "Levittown",
+				"state": "New York",
+				"country": "US"
+			},
+			"start_date": "September 2001",
+			"end_date": "June 2004"
 		},
 		{
-			"highschool": {
-				"name": "Division Avenue",
-				"location": {
-					"city": "Levittown",
-					"state": "New York",
-					"country": "US"
-				},
-				"start_date": "September 2004",
-				"end_date": "June 2008",
-				"diploma": "Advanced Regents"
-			}
+			"school": "Division Avenue High School",
+			"location": {
+				"city": "Levittown",
+				"state": "New York",
+				"country": "US"
+			},
+			"start_date": "September 2004",
+			"end_date": "June 2008",
+			"degree": "Advanced Regents Diploma"
 		},
 		{
-			"college": [
-				{
-					"undergraduate": {
-						"name": "SUNY College at Old Westbury",
-						"location": {
-							"city": "Old westbury",
-							"state": "New York",
-							"country": "US"
-						},
-						"degree": "Bachelor of Science",
-						"major": "Computer Science",
-						"start_date": "September 2008",
-						"end_date": "May 2012"
-					}
-				},
-				{
-					"graduate": {
-						"name": "New York Institute of Technology",
-						"location": {
-							"city": "Old westbury",
-							"state": "New York",
-							"country": "US"
-						},
-						"degree": "Master of Science",
-						"major": "Computer Science",
-						"start_date": "January 2015",
-						"end_date": "N/A"
-					}
-				}
-			]
+			"school": "SUNY College at Old Westbury",
+			"location": {
+				"city": "Old westbury",
+				"state": "New York",
+				"country": "US"
+			},
+			"student_type": "undergraduate",
+			"degree": "Bachelor of Science",
+			"major": "Computer Science",
+			"start_date": "September 2008",
+			"end_date": "May 2012"
+		},
+		{
+			"school": "New York Institute of Technology",
+			"location": {
+				"city": "Old westbury",
+				"state": "New York",
+				"country": "US"
+			},
+			"student_type": "graduate",
+			"degree": "Master of Science",
+			"major": "Computer Science",
+			"start_date": "January 2015",
+			"end_date": "N/A"
 		}
 	],
 	"employment": [
