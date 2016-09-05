@@ -155,7 +155,7 @@
 		"clothing": ["Banana Republic", "Gap", "H&M", "Hollister", "Abercrombie & Fitch"]
 	},
 	"social": {
-		"blogger": {"username": "webmaster102", "profile_url": "http://theuiguru.blogspot.com", "feed": "https://gist.githubusercontent.com/theuiguru/96f1fefeb24b49bb339d/raw/30743e6d9241f2782ee5d1a4a654e36738b29a8e/feed.txt"},
+		"blogger": {"username": "webmaster102", "profile_url": "http://theuiguru.blogspot.com", "feed": "http://theuiguru.github.io/blog.json"},
 		"codepen": {"username": "cthomas", "profile_url": "http://codepen.io/cthomas"},
 		"delicious": {"username": "cthomas1211", "profile_url": "http://delicious.com/cthomas1211", "feed": "http://feeds.del.icio.us/v2/json/cthomas1211?count=100"},
 		"medium": {"username": "cthomas1211", "profile_url": "http://medium.com/@cthomas1211"},
