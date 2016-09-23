@@ -143,8 +143,8 @@
 		"color": "yellow",
 		"food": ["pizza", "cheeseburgers", "tacos", "sandwiches"],
 		"cereal": ["Lucky Charms", "Raisin Bran Crunch", "Fruity/Cocoa Pebbles"],
-		"places": ["Texas", "Colorado", "New York", "Illinois", "Vancouver, BC"],
-		"tvshows": ["Angie Tribeca", "The Office", "It's Always Sunny in Philadelphia", "The Flash", "Mr. Robot", "Silicon Valey", "Men at Work", "Modern Family", "Suits", "Friends", "The King of Queens", "Arrow", "The Middle", "Parks and Recreation", "Community", "Happy Endings", "The Mindy Project", "Glee", "Scorpion", "The Big Bang Theory", "The League", "The IT Crowd", "Blackish"],
+		"places": ["Texas", "Colorado", "New York", "Illinois", "Vancouver"],
+		"tvshows": ["Atlanta", "Angie Tribeca", "Mr. Robot", "Silicon Valey", "The Office", "It's Always Sunny in Philadelphia", "The Flash", "Men at Work", "Modern Family", "Suits", "Friends", "The King of Queens", "Arrow", "The Middle", "Parks and Recreation", "Community", "Happy Endings", "The Mindy Project", "Glee", "Scorpion", "The Big Bang Theory", "The League", "The IT Crowd", "Blackish"],
 		"actor": ["Steve Carell", "Kevin James"],
 		"superhero": ["The Flash", "The Incredible Hulk", "The Green Lantern"],
 		"music": {
