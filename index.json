@@ -154,21 +154,47 @@
 		"sports": ["Golf", "Basketball", "Tennis"], 
 		"clothing": ["Banana Republic", "Gap", "H&M", "Hollister", "Abercrombie & Fitch"]
 	},
-	"social": {
-		"blogger": {"username": "webmaster102", "profile_url": "http://theuiguru.blogspot.com", "feed": "http://theuiguru.github.io/blog.json"},
-		"codepen": {"username": "cthomas", "profile_url": "http://codepen.io/cthomas"},
-		"delicious": {"username": "cthomas1211", "profile_url": "http://delicious.com/cthomas1211", "feed": "http://feeds.del.icio.us/v2/json/cthomas1211?count=100"},
-		"medium": {"username": "cthomas1211", "profile_url": "http://medium.com/@cthomas1211"},
-		"facebook": {"username": "christhomas101", "profile_url": "http://facebook.com/christhomas101"}, 
-		"flickr": {"username": "theuiguru", "profile_url": "http://flickr.com/theuiguru", "feed": "http://api.flickr.com/services/feeds/photos_public.gne?id=29049438@N07&lang=en-us&format=json"},
-		"foursquare": {"username": "cthomas1211", "profile_url": "http://foursquare.com/cthomas1211", "feed": "https://api.foursquare.com/v2/users/self/checkins?limit=10&oauth_token=3FLJTHPL4OHWMZO2G2DGJ2HPAJJPTPVCW0EEZX12PKV32GBS&v=20130312"},
-		"gists": {"username": "theuiguru", "profile_url": "http://gist.github.com/theuiguru"},
-		"github": {"username": "theuiguru", "profile_url": "http://github.com/theuiguru", "feed": "https://api.github.com/users/theuiguru"},
-		"instagram": {"username": "cthomas1211", "profile_url": "http://instagram.com/cthomas1211", "feed": "https://api.instagram.com/v1/users/self/media/recent?access_token=7744071.1677ed0.474ca84a8db04d4c895ec122967e5667&client_id=a10368fdc8654ab88f53def5c21b2aa2&count=12"},
-		"linkedin": {"username": "christhomas101", "profile_url": "http://linkedin.com/in/christhomas101"},
-		"twitter": {"username": "cthomas1211", "profile_url": "http://twitter.com/cthomas1211"},
+	"social": [
+		{
+		"blogger": {"username": "webmaster102", "profile_url": "http://theuiguru.blogspot.com", "feed": "http://theuiguru.github.io/blog.json"}
+		},
+		{
+		"codepen": {"username": "cthomas", "profile_url": "http://codepen.io/cthomas"}
+		},
+		{
+		"delicious": {"username": "cthomas1211", "profile_url": "http://delicious.com/cthomas1211", "feed": "http://feeds.del.icio.us/v2/json/cthomas1211?count=100"}
+		},
+		{
+		"medium": {"username": "cthomas1211", "profile_url": "http://medium.com/@cthomas1211"}
+		},
+		{
+		"facebook": {"username": "christhomas101", "profile_url": "http://facebook.com/christhomas101"}
+		},
+		{
+		"flickr": {"username": "theuiguru", "profile_url": "http://flickr.com/theuiguru", "feed": "http://api.flickr.com/services/feeds/photos_public.gne?id=29049438@N07&lang=en-us&format=json"}
+		},
+		{
+		"foursquare": {"username": "cthomas1211", "profile_url": "http://foursquare.com/cthomas1211", "feed": "https://api.foursquare.com/v2/users/self/checkins?limit=10&oauth_token=3FLJTHPL4OHWMZO2G2DGJ2HPAJJPTPVCW0EEZX12PKV32GBS&v=20130312"}
+		},
+		{
+		"gists": {"username": "theuiguru", "profile_url": "http://gist.github.com/theuiguru"}
+		},
+		{
+		"github": {"username": "theuiguru", "profile_url": "http://github.com/theuiguru", "feed": "https://api.github.com/users/theuiguru"}
+		},
+		{
+		"instagram": {"username": "cthomas1211", "profile_url": "http://instagram.com/cthomas1211", "feed": "https://api.instagram.com/v1/users/self/media/recent?access_token=7744071.1677ed0.474ca84a8db04d4c895ec122967e5667&client_id=a10368fdc8654ab88f53def5c21b2aa2&count=12"}
+		},
+		{
+		"linkedin": {"username": "christhomas101", "profile_url": "http://linkedin.com/in/christhomas101"}
+		},
+		{
+		"twitter": {"username": "cthomas1211", "profile_url": "http://twitter.com/cthomas1211"}
+		},
+		{
 		"youtube": {"username": "ndnweb24", "profile_url": "http://youtube.com/ndnweb24"}
-	},
+		}
+	],
 	"projects": [
 		{
 			"title": "a personal api",
