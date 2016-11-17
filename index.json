@@ -1,7 +1,7 @@
 {
 	"firstname": "Chris",
 	"lastname": "Thomas",
-	"nickname": ["CT"],
+	"nickname": ["CT", "cQuery"],
 	"url": "http://tiny.cc/cthomas",
 	"email": "webmaster102@gmail.com",
 	"sex": "male",
