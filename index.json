@@ -197,10 +197,6 @@
 	],
 	"projects": [
 		{
-			"title": "a personal api",
-			"url": "http://theuiguru.github.io/api"
-		},
-		{
 			"title": "ponnasseril",
 			"url": "http://theuiguru.github.io/ponnasseril"
 		},
