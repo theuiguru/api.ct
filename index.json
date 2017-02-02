@@ -6,7 +6,11 @@
 	"email": "webmaster102@gmail.com",
 	"sex": "male",
 	"zodiac": "Sagittarius", 
-	"birthplace": "Syosset, New York", 
+	"birthplace": {
+		"city": "Syosset", 
+		"state": "New York", 
+		"country": "US"
+	},
 	"location": {
 		"city": "Levittown",
 		"state": "New York",
