@@ -8,11 +8,13 @@
 	"zodiac": "Sagittarius", 
 	"birthplace": {
 		"city": "Syosset", 
+		"county": "Nassau",
 		"state": "New York", 
 		"country": "US"
 	},
 	"location": {
 		"city": "Levittown",
+		"county": "Nassau",
 		"state": "New York",
 		"country": "US"
 	},
