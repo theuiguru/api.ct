@@ -150,7 +150,7 @@
 		"food": ["pizza", "cheeseburgers", "tacos", "sandwiches"],
 		"cereal": ["Lucky Charms", "Raisin Bran Crunch", "Fruity/Cocoa Pebbles"],
 		"places": ["Texas", "Colorado", "New York", "Illinois", "Vancouver"],
-		"tvshows": ["Angie Tribeca", "Arrow", "Atlanta", "Blackish", "Community", "Friends", "Glee", "Happy Endings", "Insecure", "It's Always Sunny in Philadelphia", "Men at Work", "Modern Family", "Mr. Robot", "Parks and Recreation", "Scorpion", "Silicon Valey", "Suits", "The Big Bang Theory", "The Flash", "The IT Crowd", "The King of Queens", "The League", "The Middle", "The Mindy Project", "The Office"],
+		"tvshows": ["Angie Tribeca", "Arrow", "Atlanta", "Blackish", "Community", "Friends", "Glee", "Happy Endings", "Insecure", "It's Always Sunny in Philadelphia", "Men at Work", "Modern Family", "Mr. Robot", "Parks and Recreation", "Partners", "Powerless", "Riverdale", "Scorpion", "Silicon Valey", "Suits", "The Big Bang Theory", "The Flash", "The IT Crowd", "The King of Queens", "The League", "The Middle", "The Mindy Project", "The Office"],
 		"actor": ["Steve Carell", "Kevin James"],
 		"superhero": ["The Flash", "The Incredible Hulk", "The Green Lantern"],
 		"music": {
@@ -203,11 +203,11 @@
 	],
 	"projects": [
 		{
-			"title": "ponnasseril",
+			"title": "ponnasseril family",
 			"url": "http://theuiguru.github.io/ponnasseril"
 		},
 		{
-			"title": "molethu",
+			"title": "molethu family",
 			"url": "http://theuiguru.github.io/molethu"
 		},
 		{
@@ -251,7 +251,7 @@
 			"url": "http://theuiguru.github.io/growcamp.us"
 		},
 		{
-			"title": "emotion_ly",
+			"title": "emotion.ly",
 			"url": "http://theuiguru.github.io/emotion.ly"
 		},
 		{
@@ -263,7 +263,7 @@
 			"url": "http://theuiguru.github.io/bdesi"
 		},
 		{
-			"title": "piday",
+			"title": "piDay",
 			"url": "http://theuiguru.github.io/piday"
 		},
 		{
