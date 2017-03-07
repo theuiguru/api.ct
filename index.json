@@ -1,7 +1,7 @@
 {
 	"firstname": "Chris",
 	"lastname": "Thomas",
-	"nickname": ["CT", "CQuery"],
+	"nickname": ["CT", "cQuery"],
 	"url": "http://tiny.cc/cthomas",
 	"email": "webmaster102@gmail.com",
 	"sex": "male",
@@ -74,7 +74,7 @@
 			"degree": "Master of Science",
 			"major": "Computer Science",
 			"start_date": "January 2015",
-			"end_date": ""
+			"end_date": "2017"
 		}
 	],
 	"employment": [
