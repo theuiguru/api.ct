@@ -75,7 +75,7 @@
 			"degree": "Master of Science",
 			"major": "Computer Science",
 			"start_date": "January 2015",
-			"end_date": "2017"
+			"end_date": "December 2017"
 		}
 	],
 	"employment": [
@@ -290,6 +290,10 @@
 		{
 			"title": "toDo",
 			"url": "http://theuiguru.github.io/toDo"
+		},
+		{
+			"title": "codepen",
+			"url": "http://codepen.io/cthomas/public"
 		}
 	],
 	"quotes": [
