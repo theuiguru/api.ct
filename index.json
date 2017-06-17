@@ -294,6 +294,10 @@
 		{
 			"title": "codepen",
 			"url": "http://codepen.io/cthomas/public"
+		},
+		{
+			"title": "knapsack",
+			"url": "http://knapsack.surge.sh"
 		}
 	],
 	"quotes": [
