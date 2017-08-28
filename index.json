@@ -142,10 +142,9 @@
 			"end_date": "May 2009"
 		}
 	],
-	"volunteer": ["MGOCSM America", "New York Leadership Camp 2015", "St. Stephen's Orthodox Church of LI"],
 	"interests": ["Technology", "Philosophy", "Food", "Music", "Sports"],
 	"hobbies": ["Hacking", "Watching tv/movies", "Hanging out with family/friends"],
-	"languages": ["(X)HTML(5)", "CSS(3)", "JavaScript", "Java", "C++", "PHP", "Python", "English", "Malayalam", "Spanish"],
+	"languages": ["(X)HTML(5)", "CSS(3)", "JavaScript", "Java", "PHP", "Python", "English", "Malayalam", "Spanish"],
 	"favorites": {
 		"color": "yellow",
 		"food": ["pizza", "cheeseburgers", "tacos", "sandwiches"],
