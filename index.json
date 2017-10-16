@@ -150,7 +150,7 @@
 		"food": ["pizza", "cheeseburgers", "tacos", "sandwiches"],
 		"cereal": ["Lucky Charms", "Raisin Bran Crunch", "Fruity/Cocoa Pebbles", "Reese's Puffs"],
 		"places": ["Texas", "Colorado", "New York", "Illinois", "Michigan", "Vancouver"],
-		"tvshows": ["2 Broke Girls", "Angie Tribeca", "Arrow", "Atlanta", "Blackish", "Community", "Friends", "Girl Meets World", "Glee", "Happy Endings", "iCarly", "Insecure", "It's Always Sunny in Philadelphia", "Kevin Can Wait", "Master of None", "Men at Work", "Modern Family", "Mr. Robot", "My Wife and Kids", "Parks and Recreation", "Partners", "Powerless", "Prison Break", "Rick and Morty", "Riverdale", "Scorpion", "Silicon Valley", "Suits", "The Big Bang Theory", "The Flash", "The IT Crowd", "The King of Queens", "The League", "The Middle", "The Mindy Project", "The Office"],
+		"tvshows": ["2 Broke Girls", "Angie Tribeca", "Arrow", "Atlanta", "Blackish", "Brooklyn Nine-Nine", "Community", "Friends", "Ghosted", "Girl Meets World", "Glee", "Happy Endings", "iCarly", "Insecure", "It's Always Sunny in Philadelphia", "Kevin Can Wait", "Master of None", "Men at Work", "Modern Family", "Mr. Robot", "My Wife and Kids", "Parks and Recreation", "Partners", "Powerless", "Prison Break", "Rick and Morty", "Riverdale", "Scorpion", "Silicon Valley", "Star Trek: Discovery", "Suits", "The Big Bang Theory", "The Flash", "The IT Crowd", "The King of Queens", "The League", "The Mayor", "The Middle", "The Mindy Project", "The Office"],
 		"actor": ["Steve Carell", "Kevin James"],
 		"superhero": ["The Flash", "The Incredible Hulk", "The Green Lantern", "Gambit"],
 		"music": {
