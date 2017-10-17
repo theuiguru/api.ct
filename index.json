@@ -164,6 +164,9 @@
 		{	
 			"title": "blogger", "username": "webmaster102", "profile_url": "http://theuiguru.blogspot.com", "feed": "http://theuiguru.github.io/blog.json"
 		},
+		{	
+			"title": "bumpers", "username": "cquery", "profile_url": "http://bumpers.fm/cquery"
+		},
 		{
 			"title": "codepen", "username": "cthomas", "profile_url": "http://codepen.io/cthomas"
 		},
