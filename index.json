@@ -174,7 +174,7 @@
 			"title": "medium", "username": "cthomas1211", "profile_url": "http://medium.com/@cthomas1211"
 		},
 		{
-			"title": "facebook", "username": "christhomas101", "profile_url": "http://facebook.com/christhomas101"
+			"title": "facebook", "username": "christhomas101"
 		},
 		{
 			"title": "flickr", "username": "theuiguru", "profile_url": "http://flickr.com/theuiguru", "feed": "http://api.flickr.com/services/feeds/photos_public.gne?id=29049438@N07&lang=en-us&format=json"
