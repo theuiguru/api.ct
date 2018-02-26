@@ -145,6 +145,7 @@
 	"interests": ["Technology", "Philosophy", "Food", "Music", "Sports"],
 	"hobbies": ["Hacking", "Watching tv/movies", "Hanging out with family/friends"],
 	"languages": ["(X)HTML(5)", "CSS(3)", "JavaScript", "Java", "PHP", "Python", "English", "Malayalam", "Spanish"],
+	"frameworks": ["jQuery", "nodeJS", "React", "Angular", "Bootstrap"],
 	"favorites": {
 		"color": "yellow",
 		"food": ["pizza", "cheeseburgers", "burritos"],
