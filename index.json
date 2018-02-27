@@ -3,8 +3,7 @@
 	"lastname": "Thomas",
 	"nickname": ["ct", "cquery"],
 	"url": "http://tiny.cc/cthomas",
-	"email": "webmaster102@gmail.com",
-	"sex": "male",
+	"gender": "male",
 	"zodiac": "Sagittarius", 
 	"birthday": "December 11",
 	"birthplace": {
