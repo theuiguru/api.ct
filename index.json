@@ -57,7 +57,7 @@
 				"state": "New York",
 				"country": "US"
 			},
-			"student_type": "undergraduate",
+			"student_type": "Undergraduate",
 			"degree": "Bachelor of Science",
 			"major": "Computer Science",
 			"start_date": "September 2008",
@@ -70,7 +70,7 @@
 				"state": "New York",
 				"country": "US"
 			},
-			"student_type": "graduate",
+			"student_type": "Graduate",
 			"degree": "Master of Science",
 			"major": "Computer Science",
 			"start_date": "January 2015",
