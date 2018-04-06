@@ -143,8 +143,7 @@
 	],
 	"interests": ["Technology", "Philosophy", "Food", "Music", "Sports"],
 	"hobbies": ["Hacking", "Watching tv/movies", "Hanging out with family/friends"],
-	"languages": ["(X)HTML(5)", "CSS(3)", "JavaScript", "Java", "PHP", "Python", "English", "Malayalam", "Spanish"],
-	"frameworks": ["jQuery", "nodeJS", "React", "Angular", "Bootstrap"],
+	"languages": ["(X)HTML(5)", "CSS(3)", "JavaScript", "Java", "PHP", "Python", "Ruby", "English", "Malayalam", "Spanish"],
 	"favorites": {
 		"color": "yellow",
 		"food": ["pizza", "cheeseburgers", "burritos"],
@@ -152,7 +151,7 @@
 		"places": ["Texas", "Colorado", "New York", "Illinois", "Michigan", "Vancouver"],
 		"tvShows": ["2 Broke Girls", "Angie Tribeca", "Arrow", "Atlanta", "Blackish", "Brooklyn Nine-Nine", "Community", "Friends", "Ghosted", "Girl Meets World", "Glee", "Happy Endings", "iCarly", "Insecure", "It's Always Sunny in Philadelphia", "Kevin Can Wait", "Master of None", "Men at Work", "Modern Family", "Mr. Robot", "My Wife and Kids", "Parks and Recreation", "Partners", "Powerless", "Prison Break", "Rick and Morty", "Riverdale", "Scorpion", "Silicon Valley", "Star Trek: Discovery", "Suits", "The Big Bang Theory", "The Flash", "The IT Crowd", "The King of Queens", "The League", "The Mayor", "The Middle", "The Mindy Project", "The Office"],
 		"actor": ["Steve Carell", "Kevin James"],
-		"superhero": ["The Flash", "The Incredible Hulk", "The Green Lantern", "Gambit"],
+		"superhero": ["The Flash", "Gambit", "The Incredible Hulk", "The Green Lantern"],
 		"music": {
 			"genre": ["Pop", "R&B", "Hip-Hop"],
 			"bands": ["Backstreet Boys", "O-Town"]
