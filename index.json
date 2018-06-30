@@ -143,7 +143,7 @@
 	],
 	"interests": ["Technology", "Philosophy", "Food", "Music", "Sports"],
 	"hobbies": ["Hacking", "Watching tv/movies", "Hanging out with family/friends"],
-	"languages": ["(X)HTML(5)", "CSS(3)", "JavaScript", "Java", "PHP", "Python", "Ruby", "English", "Malayalam", "Spanish"],
+	"languages": ["(X)HTML(5)", "CSS(3)", "JavaScript", "Java", "C#", "PHP", "Python", "Ruby", "English", "Malayalam", "Spanish"],
 	"favorites": {
 		"color": "yellow",
 		"food": ["pizza", "cheeseburgers", "burritos"],
@@ -220,7 +220,7 @@
 		},
 		{
 			"title": "StStephensNY",
-			"url": "http://theuiguru.github.io/ststephensny"
+			"url": "http://theuiguru.github.io/ststephensny/index_v2"
 		},
 		{
 			"title": "St. Stephen's Superbowl",
