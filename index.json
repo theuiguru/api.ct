@@ -146,7 +146,7 @@
 	"languages": ["(X)HTML(5)", "CSS(3)", "JavaScript", "Java", "C#", "PHP", "Python", "Ruby", "English", "Malayalam", "Spanish"],
 	"favorites": {
 		"color": "yellow",
-		"food": ["pizza", "cheeseburgers", "burritos"],
+		"food": ["pizza", "cheeseburgers", "tacos", "burritos", "chicken"],
 		"cereal": ["Lucky Charms", "Raisin Bran Crunch", "Fruity/Cocoa Pebbles", "Reese's Puffs"],
 		"places": ["Texas", "Colorado", "New York", "Illinois", "Michigan", "Vancouver"],
 		"tvShows": ["2 Broke Girls", "Angie Tribeca", "Arrow", "Atlanta", "Blackish", "Brooklyn Nine-Nine", "Community", "Friends", "Ghosted", "Girl Meets World", "Glee", "Happy Endings", "iCarly", "Insecure", "It's Always Sunny in Philadelphia", "Kevin Can Wait", "Master of None", "Men at Work", "Modern Family", "Mr. Robot", "My Wife and Kids", "Parks and Recreation", "Partners", "Powerless", "Prison Break", "Rick and Morty", "Riverdale", "Scorpion", "Seinfeld", "Silicon Valley", "Star Trek: Discovery", "Suits", "The Big Bang Theory", "The Flash", "The IT Crowd", "The King of Queens", "The League", "The Mayor", "The Middle", "The Mindy Project", "The Office", "Workaholics"],
