@@ -199,6 +199,10 @@
 	],
 	"projects": [
 		{
+			"title": "Personal Site",
+			"url": "http://ct.surge.sh"
+		},
+		{
 			"title": "Ponnasseril Family",
 			"url": "http://theuiguru.github.io/ponnasseril"
 		},
@@ -284,7 +288,7 @@
 		},
 		{
 			"title": "fitness",
-			"url": "http://theuiguru.github.io/fitness"
+			"url": "http://dunkfitness.surge.sh"
 		},
 		{
 			"title": "CodePen",
