@@ -1,7 +1,7 @@
 {
 	"firstname": "Chris",
 	"lastname": "Thomas",
-	"nickname": ["ct", "cquery", "christopher (not real name)"],
+	"nickname": ["ct", "cquery", "christopher"],
 	"url": "http://tiny.cc/cthomas",
 	"gender": "male",
 	"zodiac": "Sagittarius", 
@@ -252,7 +252,7 @@
 		},
 		{
 			"title": "emotion.ly",
-			"url": "http://theuiguru.github.io/emotion.ly"
+			"url": "http://emotionly.surge.sh"
 		},
 		{
 			"title": "food.ie",
