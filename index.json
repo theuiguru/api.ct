@@ -79,13 +79,6 @@
 	],
 	"employment": [
 		{
-			"organization": "Independent",
-			"title": "Software Engineer Consultant",
-			"description": "Created and maintained web/mobile applications with full-stack knowledge in JavaScript, Java, SQL, and other languages and framework tools.",
-			"start_date": "May 2018",
-			"end_date": "Present"
-		},
-		{
 			"organization": "Northwell Health",
 			"url": "http://www.northwell.edu",
 			"title": "Software Developer",
@@ -198,10 +191,6 @@
 		}
 	],
 	"projects": [
-		{
-			"title": "Personal Site",
-			"url": "http://ct.surge.sh"
-		},
 		{
 			"title": "Ponnasseril Family",
 			"url": "http://theuiguru.github.io/ponnasseril"
