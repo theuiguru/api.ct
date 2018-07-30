@@ -142,7 +142,7 @@
 		"food": ["pizza", "cheeseburgers", "tacos"],
 		"cereal": ["Lucky Charms", "Raisin Bran Crunch", "Fruity/Cocoa Pebbles", "Reese's Puffs", "Cap'n Crunch"],
 		"places": ["Texas", "Colorado", "New York", "Illinois", "Michigan", "Vancouver"],
-		"tvShows": ["2 Broke Girls", "Angie Tribeca", "Arrow", "Atlanta", "Better Call Saul", "Blackish", "Brooklyn Nine-Nine", "Community", "Friends", "Ghosted", "Girl Meets World", "Glee", "Happy Endings", "iCarly", "Insecure", "It's Always Sunny in Philadelphia", "Kevin Can Wait", "Marlon", "Master of None", "Men at Work", "Modern Family", "Mr. Robot", "My Wife and Kids", "Parks and Recreation", "Partners", "Powerless", "Prison Break", "Rick and Morty", "Riverdale", "Scorpion", "Seinfeld", "Silicon Valley", "Star Trek: Discovery", "Suits", "The Big Bang Theory", "The Flash", "The IT Crowd", "The King of Queens", "The League", "The Mayor", "The Middle", "The Mindy Project", "The Office", "VR Troopers", "Workaholics"],
+		"tvShows": ["2 Broke Girls", "Angie Tribeca", "Arrow", "Atlanta", "Better Call Saul", "Blackish", "Brooklyn Nine-Nine", "Community", "Friends", "Ghosted", "Girl Meets World", "Glee", "Happy Endings", "iCarly", "Insecure", "It's Always Sunny in Philadelphia", "Kevin Can Wait", "Marlon", "Master of None", "Men at Work", "Modern Family", "Mr. Robot", "My Wife and Kids", "Parks and Recreation", "Partners", "Powerless", "Prison Break", "Rick and Morty", "Riverdale", "Scorpion", "Seinfeld", "Silicon Valley", "Star Trek: Discovery", "Suits", "The Big Bang Theory", "The Flash", "The IT Crowd", "The King of Queens", "The League", "The Middle", "The Mindy Project", "The Office", "VR Troopers", "Workaholics"],
 		"actor": ["Steve Carell", "Kevin James"],
 		"superhero": ["The Flash", "Gambit", "The Incredible Hulk", "The Green Lantern"],
 		"music": {
@@ -157,37 +157,37 @@
 			"title": "blogger", "profile_url": "http://theuiguru.blogspot.com", "feed": "http://theuiguru.github.io/blog.json"
 		},
 		{
-			"title": "codepen", "username": "cthomas", "profile_url": "http://codepen.io/cthomas"
+			"title": "codepen", "profile_url": "http://codepen.io/cthomas"
 		},
 		{
-			"title": "medium", "username": "cthomas1211", "profile_url": "http://medium.com/@cthomas1211"
+			"title": "medium", "profile_url": "http://medium.com/@cthomas1211"
 		},
 		{
-			"title": "facebook", "username": "christhomas101"
+			"title": "facebook", "profile_url": "http://facebook.com/christhomas101"
 		},
 		{
-			"title": "flickr", "username": "theuiguru", "profile_url": "http://flic.kr/theuiguru", "feed": "http://api.flickr.com/services/feeds/photos_public.gne?id=29049438@N07&lang=en-us&format=json"
+			"title": "flickr", "profile_url": "http://flic.kr/theuiguru", "feed": "http://api.flickr.com/services/feeds/photos_public.gne?id=29049438@N07&lang=en-us&format=json"
 		},
 		{
-			"title": "foursquare", "username": "cthomas1211", "profile_url": "http://foursquare.com/cthomas1211", "feed": "https://api.foursquare.com/v2/users/self/checkins?limit=10&oauth_token=3FLJTHPL4OHWMZO2G2DGJ2HPAJJPTPVCW0EEZX12PKV32GBS&v=20130312"
+			"title": "foursquare", "profile_url": "http://foursquare.com/cthomas1211", "feed": "https://api.foursquare.com/v2/users/self/checkins?limit=10&oauth_token=3FLJTHPL4OHWMZO2G2DGJ2HPAJJPTPVCW0EEZX12PKV32GBS&v=20130312"
 		},
 		{
-			"title": "gists", "username": "theuiguru", "profile_url": "http://gist.github.com/theuiguru"
+			"title": "gists", "profile_url": "http://gist.github.com/theuiguru"
 		},
 		{
-			"title": "github", "username": "theuiguru", "profile_url": "http://github.com/theuiguru", "feed": "https://api.github.com/users/theuiguru"
+			"title": "github", "profile_url": "http://github.com/theuiguru", "feed": "https://api.github.com/users/theuiguru"
 		},
 		{
-			"title": "instagram", "username": "cthomas1211", "profile_url": "http://instagr.am/cthomas1211", "feed": "https://api.instagram.com/v1/users/self/media/recent?access_token=7744071.1677ed0.474ca84a8db04d4c895ec122967e5667&client_id=a10368fdc8654ab88f53def5c21b2aa2&count=12"
+			"title": "instagram", "profile_url": "http://instagr.am/cthomas1211", "feed": "https://api.instagram.com/v1/users/self/media/recent?access_token=7744071.1677ed0.474ca84a8db04d4c895ec122967e5667&client_id=a10368fdc8654ab88f53def5c21b2aa2&count=12"
 		},
 		{
-			"title": "linkedin", "username": "christhomas101", "profile_url": "http://linkedin.com/in/christhomas101"
+			"title": "linkedin", "profile_url": "http://linkedin.com/in/christhomas101"
 		},
 		{
-			"title": "twitter", "username": "cthomas1211", "profile_url": "http://twitter.com/cthomas1211"
+			"title": "twitter", "profile_url": "http://twitter.com/cthomas1211"
 		},
 		{
-			"title": "youtube", "username": "ndnweb24", "profile_url": "http://youtube.com/ndnweb24"
+			"title": "youtube", "profile_url": "http://youtube.com/ndnweb24"
 		}
 	],
 	"projects": [
