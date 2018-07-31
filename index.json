@@ -80,7 +80,6 @@
 	"employment": [
 		{
 			"organization": "Northwell Health",
-			"url": "http://www.northwell.edu",
 			"title": "Software Developer",
 			"description": "Providing data management support and assisting the end-user community with the development of databases, web-based applications for data entry purposes and prepare reports for end users.",
 			"start_date": "January 2016",
@@ -88,7 +87,6 @@
 		},
 		{
 			"organization": "Microsoft",
-			"url": "http://www.microsoft.com",
 			"title": "Technical Services Advisor",
 			"description": "Be the in-store example of the Microsoft vision of the customer relationship.",
 			"start_date": "October 2015",
@@ -96,7 +94,6 @@
 		},
 		{
 			"organization": "Nassau University Medical Center",
-			"url": "http://www.numc.edu",
 			"title": "Data Analyst",
 			"description": "Provide patients and their caregivers with the knowledge, skills and resources to transition smoothly through the continuum of healthcare from hospitalization to a return to the community.",
 			"start_date": "May 2014",
@@ -111,7 +108,6 @@
 		},
 		{
 			"organization": "Old Westbury Web Radio",
-			"url": "http://www.owwrny.org",
 			"title": "Webmaster Intern",
 			"description": "Created brand-new website from scratch with front-end capabilities.",
 			"start_date": "September 2011",
@@ -119,7 +115,6 @@
 		},
 		{
 			"organization": "Nassau University Medical Center",
-			"url": "http://www.numc.edu",
 			"title": "IT Intern",
 			"description": "Assisted in repairing software and hardware at several workstations.",
 			"start_date": "June 2010",
@@ -127,7 +122,6 @@
 		},
 		{
 			"organization": "New York Institute of Technology",
-			"url": "http://www.nyit.edu",
 			"title": "Technology Assistant",
 			"description": "Assisted in the Career Services department on campus, creating Powerpoint presentations and an Access career database.",
 			"start_date": "September 2008",
