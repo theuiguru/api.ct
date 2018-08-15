@@ -129,14 +129,14 @@
 		}
 	],
 	"interests": ["Technology", "Philosophy", "Food", "Travel", "Music", "Sports"],
-	"hobbies": ["Hacking", "Watching tv/movies", "Hanging out with family/friends"],
+	"hobbies": ["Hacking", "Watching tv/movies", "Gym workout", "Hanging out with family/friends"],
 	"languages": ["(X)HTML(5)", "CSS(3)", "JavaScript", "Java", "SQL", "C#", "PHP", "Python", "Ruby", "English", "Malayalam", "Spanish"],
 	"favorites": {
 		"color": "yellow",
 		"food": ["pizza", "cheeseburgers", "tacos"],
 		"cereal": ["Lucky Charms", "Raisin Bran Crunch", "Fruity/Cocoa Pebbles", "Reese's Puffs", "Cap'n Crunch"],
 		"places": ["Texas", "Colorado"],
-		"tvShows": ["2 Broke Girls", "Angie Tribeca", "Arrow", "Atlanta", "Better Call Saul", "Blackish", "Brooklyn Nine-Nine", "Breaking Bad", "Community", "Friends", "Ghosted", "Girl Meets World", "Glee", "Happy Endings", "iCarly", "Insecure", "It's Always Sunny in Philadelphia", "Kevin Can Wait", "Marlon", "Master of None", "Men at Work", "Modern Family", "Mr. Robot", "My Wife and Kids", "Parks and Recreation", "Partners", "Powerless", "Prison Break", "Rick and Morty", "Riverdale", "Scorpion", "Seinfeld", "Silicon Valley", "Star Trek: Discovery", "Suits", "The Big Bang Theory", "The Flash", "The IT Crowd", "The King of Queens", "The League", "The Middle", "The Mindy Project", "The Office", "VR Troopers", "Workaholics"],
+		"tvShows": ["2 Broke Girls", "Angie Tribeca", "Arrow", "Atlanta", "Better Call Saul", "Blackish", "Brooklyn Nine-Nine", "Breaking Bad", "Community", "Friends", "Ghosted", "Girl Meets World", "Glee", "Happy Endings", "iCarly", "Insecure", "It's Always Sunny in Philadelphia", "Kevin Can Wait", "Marlon", "Master of None", "Men at Work", "Modern Family", "Mr. Robot", "My Wife and Kids", "Parks and Recreation", "Partners", "Powerless", "Prison Break", "Rick and Morty", "Riverdale", "Scorpion", "Seinfeld", "Silicon Valley", "Star Trek: Discovery", "Suits", "Supergirl", "The Big Bang Theory", "The Flash", "The IT Crowd", "The King of Queens", "The League", "The Middle", "The Mindy Project", "The Office", "VR Troopers", "Workaholics"],
 		"actor": ["Steve Carell", "Kevin James"],
 		"superhero": ["The Flash", "Gambit", "The Incredible Hulk", "The Green Lantern"],
 		"music": {
