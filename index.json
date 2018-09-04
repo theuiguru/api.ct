@@ -189,6 +189,10 @@
 			"url": "http://theuiguru.github.io/my_portfolio"
 		},
 		{
+			"title": "CodePen",
+			"url": "http://codepen.io/cthomas/public"
+		},
+		{
 			"title": "Ponnasseril Family",
 			"url": "http://theuiguru.github.io/ponnasseril"
 		},
@@ -275,10 +279,6 @@
 		{
 			"title": "fitness",
 			"url": "http://dunkfitness.surge.sh"
-		},
-		{
-			"title": "CodePen",
-			"url": "http://codepen.io/cthomas/public"
 		},
 		{
 			"title": "knapsack",
