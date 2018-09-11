@@ -165,9 +165,6 @@
 			"title": "foursquare", "profile_url": "http://foursquare.com/cthomas1211", "feed": "https://api.foursquare.com/v2/users/self/checkins?limit=10&oauth_token=3FLJTHPL4OHWMZO2G2DGJ2HPAJJPTPVCW0EEZX12PKV32GBS&v=20130312"
 		},
 		{
-			"title": "gists", "profile_url": "http://gist.github.com/theuiguru"
-		},
-		{
 			"title": "github", "profile_url": "http://github.com/theuiguru", "feed": "https://api.github.com/users/theuiguru"
 		},
 		{
@@ -191,6 +188,10 @@
 		{
 			"title": "CodePen",
 			"url": "http://codepen.io/cthomas/public"
+		},
+		{
+			"title": "Github Gists",
+			"url": "http://gist.github.com/theuiguru"
 		},
 		{
 			"title": "Ponnasseril Family",
