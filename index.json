@@ -129,7 +129,7 @@
 		}
 	],
 	"interests": ["Technology", "Philosophy", "Food", "Travel", "Music", "Sports"],
-	"hobbies": ["Hacking", "Watching tv/movies", "Workout", "Meeting people"],
+	"hobbies": ["Hacking", "Watching tv/movies", "Workout", "Meetups"],
 	"languages": ["(X)HTML(5)", "CSS(3)", "JavaScript", "Java", "SQL", "C#", "PHP", "Python", "Ruby", "English", "Malayalam", "Spanish"],
 	"favorites": {
 		"color": "yellow",
@@ -182,7 +182,7 @@
 	],
 	"projects": [
 		{
-			"title": "Portfolio",
+			"title": "My Portfolio",
 			"url": "http://theuiguru.github.io/my_portfolio"
 		},
 		{
