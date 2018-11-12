@@ -140,7 +140,7 @@
 		"actor": "Steve Carell",
 		"superhero": "The Flash",
 		"music": {
-			"genre": ["Pop", "R&B", "Hip-Hop"],
+			"genre": ["Pop", "Hip-Hop"],
 			"bands": ["Backstreet Boys", "O-Town"]
 		}, 
 		"sports": ["Golf", "Tennis", "Basketball", "Swimming"]
