@@ -288,6 +288,10 @@
 		{
 			"title": "Vue Text Converter",
 			"url": "https://vue-text-converter1.firebaseapp.com"
+		},
+		{
+			"title": "LIRR",
+			"url": "https://theuiguru.github.io/lirr"
 		}
 	],
 	"quotes": [
