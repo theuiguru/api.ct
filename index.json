@@ -6,6 +6,7 @@
 	"gender": "male",
 	"zodiac": "Sagittarius", 
 	"birthday": "December 11",
+	"age": "29",
 	"birthplace": {
 		"city": "Syosset", 
 		"county": "Nassau",
