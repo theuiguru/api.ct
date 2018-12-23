@@ -191,10 +191,6 @@
 			"url": "http://codepen.io/cthomas/public"
 		},
 		{
-			"title": "Github Gists",
-			"url": "http://gist.github.com/theuiguru"
-		},
-		{
 			"title": "Ponnasseril Family",
 			"url": "http://theuiguru.github.io/ponnasseril"
 		},
@@ -271,7 +267,7 @@
 			"url": "http://theuiguru.github.io/games/astroRacer"
 		},
 		{
-			"title": "Power Rangers API",
+			"title": "Power Rangers",
 			"url": "http://theuiguru.github.io/PowerRangers"
 		},
 		{
@@ -289,6 +285,10 @@
 		{
 			"title": "LIRR",
 			"url": "https://theuiguru.github.io/lirr"
+		},
+		{
+			"title": "toDo",
+			"url": "https://theuiguru.github.io/toDo"
 		}
 	],
 	"quotes": [
