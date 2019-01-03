@@ -157,19 +157,16 @@
 			"title": "medium", "profile_url": "http://medium.com/@cthomas1211"
 		},
 		{
-			"title": "facebook", "profile_url": "http://facebook.com/christhomas101"
+			"title": "flickr", "profile_url": "http://flic.kr/theuiguru"
 		},
 		{
-			"title": "flickr", "profile_url": "http://flic.kr/theuiguru", "feed": "http://api.flickr.com/services/feeds/photos_public.gne?id=29049438@N07&lang=en-us&format=json"
+			"title": "foursquare", "profile_url": "http://foursquare.com/cthomas1211"
 		},
 		{
-			"title": "foursquare", "profile_url": "http://foursquare.com/cthomas1211", "feed": "https://api.foursquare.com/v2/users/self/checkins?limit=10&oauth_token=3FLJTHPL4OHWMZO2G2DGJ2HPAJJPTPVCW0EEZX12PKV32GBS&v=20130312"
+			"title": "github", "profile_url": "http://github.com/theuiguru"
 		},
 		{
-			"title": "github", "profile_url": "http://github.com/theuiguru", "feed": "https://api.github.com/users/theuiguru"
-		},
-		{
-			"title": "instagram", "profile_url": "http://instagr.am/cthomas1211", "feed": "https://api.instagram.com/v1/users/self/media/recent?access_token=7744071.1677ed0.474ca84a8db04d4c895ec122967e5667&client_id=a10368fdc8654ab88f53def5c21b2aa2&count=12"
+			"title": "instagram", "profile_url": "http://instagr.am/cthomas1211"
 		},
 		{
 			"title": "linkedin", "profile_url": "http://linkedin.com/in/christhomas101"
