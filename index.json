@@ -137,7 +137,7 @@
 		"food": ["pizza", "cheeseburgers", "tacos"],
 		"cereal": ["Lucky Charms", "Raisin Bran Crunch", "Fruity/Cocoa Pebbles", "Reese's Puffs", "Oreo O's", "Cap'n Crunch"],
 		"places": ["Texas", "Colorado"],
-		"tvShows": ["2 Broke Girls", "Angie Tribeca", "Arrow", "Atlanta", "Better Call Saul", "Blackish", "Brooklyn Nine-Nine", "Breaking Bad", "Community", "Daredevil", "Fuller House", "Fresh Off The Boat", "Happy Endings", "iCarly", "Insecure", "It's Always Sunny in Philadelphia", "Jack Ryan", "Kevin Can Wait", "Luke Cage", "Marlon", "Master of None", "Men at Work", "Mindhunter", "Modern Family", "Mr. Robot", "My Wife and Kids", "Narcos", "Parks and Recreation", "Partners", "Powerless", "Prison Break", "Psych", "Rick and Morty", "Riverdale", "Scorpion", "Search Party", "Seinfeld", "Silicon Valley", "Star Trek: Discovery", "Stranger Things", "Suits", "Supergirl", "Superstore", "The Big Bang Theory", "The Flash", "The Good Place", "The IT Crowd", "The King of Queens", "The League", "The Middle", "The Mindy Project", "The Office", "VR Troopers", "Workaholics", "Young Sheldon"],
+		"tvShows": ["2 Broke Girls", "Angie Tribeca", "Arrow", "Atlanta", "Better Call Saul", "Blackish", "Brooklyn Nine-Nine", "Breaking Bad", "Community", "Daredevil", "Fresh Off The Boat", "Happy Endings", "iCarly", "Insecure", "It's Always Sunny in Philadelphia", "Jack Ryan", "Luke Cage", "Marlon", "Master of None", "Men at Work", "Mindhunter", "Modern Family", "Mr. Robot", "My Wife and Kids", "Narcos", "Parks and Recreation", "Partners", "Powerless", "Prison Break", "Psych", "Rick and Morty", "Riverdale", "Scorpion", "Search Party", "Seinfeld", "Silicon Valley", "Star Trek: Discovery", "Stranger Things", "Suits", "Supergirl", "Superstore", "The Big Bang Theory", "The Flash", "The Good Place", "The IT Crowd", "The King of Queens", "The League", "The Middle", "The Mindy Project", "The Office", "VR Troopers", "Workaholics", "Young Sheldon"],
 		"actor": "Steve Carell",
 		"superhero": "The Flash",
 		"music": {
@@ -182,10 +182,6 @@
 		{
 			"title": "My Portfolio",
 			"url": "http://theuiguru.github.io/my_portfolio"
-		},
-		{
-			"title": "CodePen",
-			"url": "http://codepen.io/cthomas/public"
 		},
 		{
 			"title": "Ponnasseril Family",
