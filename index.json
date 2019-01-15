@@ -136,8 +136,7 @@
 		"color": "yellow",
 		"food": ["pizza", "cheeseburgers", "tacos"],
 		"cereal": ["Lucky Charms", "Raisin Bran Crunch", "Fruity/Cocoa Pebbles", "Reese's Puffs", "Oreo O's", "Cap'n Crunch"],
-		"places": ["Texas", "Colorado"],
-		"tvShows": ["2 Broke Girls", "Angie Tribeca", "Arrow", "Atlanta", "Better Call Saul", "Blackish", "Brooklyn Nine-Nine", "Breaking Bad", "Community", "Daredevil", "Fresh Off The Boat", "Happy Endings", "iCarly", "Insecure", "It's Always Sunny in Philadelphia", "Jack Ryan", "Luke Cage", "Marlon", "Master of None", "Men at Work", "Mindhunter", "Modern Family", "Mr. Robot", "My Wife and Kids", "Narcos", "Parks and Recreation", "Partners", "Powerless", "Prison Break", "Psych", "Rick and Morty", "Riverdale", "Scorpion", "Search Party", "Seinfeld", "Silicon Valley", "Star Trek: Discovery", "Stranger Things", "Suits", "Supergirl", "Superstore", "The Big Bang Theory", "The Flash", "The Good Place", "The IT Crowd", "The King of Queens", "The League", "The Middle", "The Mindy Project", "The Office", "VR Troopers", "Workaholics", "Young Sheldon"],
+		"tvShows": ["2 Broke Girls", "Angie Tribeca", "Arrow", "Atlanta", "Better Call Saul", "Blackish", "Brooklyn Nine-Nine", "Breaking Bad", "Community", "Daredevil", "Fresh Off The Boat", "Happy Endings", "iCarly", "Insecure", "It's Always Sunny in Philadelphia", "Jack Ryan", "Luke Cage", "Marlon", "Master of None", "Men at Work", "Mindhunter", "Modern Family", "Mr. Robot", "My Wife and Kids", "New Girl", "Narcos", "Parks and Recreation", "Partners", "Powerless", "Prison Break", "Psych", "Rick and Morty", "Riverdale", "Scorpion", "Search Party", "Seinfeld", "Silicon Valley", "Star Trek: Discovery", "Stranger Things", "Suits", "Supergirl", "Superstore", "The Big Bang Theory", "The Flash", "The Good Place", "The IT Crowd", "The King of Queens", "The League", "The Middle", "The Mindy Project", "The Office", "VR Troopers", "Workaholics", "Young Sheldon"],
 		"actor": "Steve Carell",
 		"superhero": "The Flash",
 		"music": {
@@ -244,11 +243,11 @@
 			"url": "http://theuiguru.github.io/piday"
 		},
 		{
-			"title": "stopwatch",
+			"title": "Stopwatch",
 			"url": "http://theuiguru.github.io/stopWatch"
 		},
 		{
-			"title": "moves",
+			"title": "Moves",
 			"url": "http://theuiguru.github.io/moves-app"
 		},
 		{
@@ -256,7 +255,7 @@
 			"url": "http://theuiguru.github.io/games"
 		},
 		{
-			"title": "AstroRacer",
+			"title": "Astro Racer",
 			"url": "http://theuiguru.github.io/games/astroRacer"
 		},
 		{
@@ -264,7 +263,7 @@
 			"url": "http://theuiguru.github.io/PowerRangers"
 		},
 		{
-			"title": "dunk fitness",
+			"title": "Dunk Fitness",
 			"url": "http://dunkfitness.surge.sh"
 		},
 		{
@@ -280,7 +279,7 @@
 			"url": "https://theuiguru.github.io/lirr"
 		},
 		{
-			"title": "toDo",
+			"title": "ToDo",
 			"url": "https://theuiguru.github.io/toDo"
 		}
 	],
