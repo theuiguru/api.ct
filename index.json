@@ -134,7 +134,7 @@
 	"languages": ["(X)HTML(5)", "CSS(3)", "JavaScript", "SQL", "English", "Malayalam", "Spanish"],
 	"favorites": {
 		"color": "yellow",
-		"food": ["pizza", "cheeseburgers", "tacos"],
+		"food": ["pizza", "cheeseburgers", "oriental"],
 		"cereal": ["Lucky Charms", "Raisin Bran Crunch", "Fruity/Cocoa Pebbles", "Reese's Puffs", "Oreo O's", "Cap'n Crunch"],
 		"tvShows": ["2 Broke Girls", "Angie Tribeca", "Arrow", "Atlanta", "Better Call Saul", "Blackish", "Brooklyn Nine-Nine", "Breaking Bad", "Community", "Daredevil", "Fresh Off The Boat", "Happy Endings", "iCarly", "I Feel Bad", "Insecure", "It's Always Sunny in Philadelphia", "Jack Ryan", "Luke Cage", "Marlon", "Master of None", "Men at Work", "Mindhunter", "Modern Family", "Mr. Robot", "My Wife and Kids", "New Girl", "Narcos", "Parks and Recreation", "Partners", "Powerless", "Prison Break", "Psych", "Rick and Morty", "Riverdale", "Scorpion", "Search Party", "Seinfeld", "Silicon Valley", "Star Trek: Discovery", "Stranger Things", "Suits", "Supergirl", "Superstore", "The Big Bang Theory", "The Flash", "The Good Place", "The IT Crowd", "The King of Queens", "The League", "The Middle", "The Mindy Project", "The Office", "This Is Us", "VR Troopers", "Workaholics", "Young Sheldon"],
 		"actor": "Steve Carell",
@@ -334,7 +334,6 @@
 		{"quote": "Be selfish: create and build things you want to see. The bet is others want the same."},
 		{"quote": "You know you're in love when you can't fall asleep because reality is finally better than your dreams. - Dr. Seuss"},
 		{"quote": "Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring. - Marilyn Monroe"},
-		{"quote": "I'm just happy she's happy"},
 		{"quote": "Champions are not made of muscle, they are made of heart. When your heart is into something, nothing can stop you!"},
 		{"quote": "On this Feast of Dormition, I ask myself: Would a Marthoma quarterback throw a 'Hail Mary?' - Steve Kurian"},
 		{"quote": "Making her smile is the way to her heart...or be lazy and just get her food."},
