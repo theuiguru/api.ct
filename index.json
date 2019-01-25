@@ -179,10 +179,6 @@
 	],
 	"projects": [
 		{
-			"title": "My Portfolio",
-			"url": "http://theuiguru.github.io/my_portfolio"
-		},
-		{
 			"title": "Ponnasseril Family",
 			"url": "http://theuiguru.github.io/ponnasseril"
 		},
@@ -243,7 +239,7 @@
 			"url": "http://theuiguru.github.io/piday"
 		},
 		{
-			"title": "Stopwatch",
+			"title": "stopwatch",
 			"url": "http://theuiguru.github.io/stopWatch"
 		},
 		{
@@ -378,6 +374,7 @@
 		{"quote": "Stay patient, stay confident."},
 		{"quote": "What makes you different or weird, that’s your strength. - Meryl Streep"},
 		{"quote": "The way to get started is to quit talking and begin doing. - Walt Disney"},
-		{"quote": "If you can change your mind, you can change your life. - William James"}
+		{"quote": "If you can change your mind, you can change your life. - William James"},
+		{"quote": "Kindness is as important as knowledge."}
 	]
 }
