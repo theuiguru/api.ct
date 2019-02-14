@@ -132,7 +132,7 @@
 	],
 	"interests": ["Technology", "Philosophy", "Food", "Travel", "Music", "Sports"],
 	"hobbies": ["Hacking", "Watching tv and movies", "Workout", "Meetups"],
-	"languages": ["HTML", "CSS", "JavaScript", "SQL", "English", "Malayalam", "Spanish"],
+	"languages": ["HTML", "CSS", "JavaScript", "SQL", "Python", "English", "Malayalam", "Spanish"],
 	"favorites": {
 		"color": "yellow",
 		"food": ["pizza", "cheeseburgers", "oriental"],
