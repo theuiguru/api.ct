@@ -1,14 +1,14 @@
 {
-	"firstname": "Chris",
-	"lastname": "Thomas",
-	"nickname": ["ct", "cquery", "christopher"],
+	"firstName": "Chris",
+	"lastName": "Thomas",
+	"nicknames": ["ct", "cquery", "christopher"],
 	"url": ["http://tiny.cc/cthomas", "http://ct.surge.sh"],
 	"gender": "male",
 	"zodiac": "Sagittarius", 
 	"birthday": "December 11",
 	"age": "29",
 	"height": "5'11",
-	"birthplace": {
+	"birthPlace": {
 		"city": "Syosset", 
 		"county": "Nassau",
 		"state": "New York", 
