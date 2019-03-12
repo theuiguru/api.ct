@@ -167,7 +167,7 @@
 	],
 	"interests": ["Technology", "Fitness", "Philosophy", "Food", "Travel"],
 	"hobbies": ["Hacking", "Watching tv and movies", "Workout", "Meetups"],
-	"languages": ["HTML", "CSS", "JavaScript", "SQL", "Python", "English", "Malayalam", "Spanish"],
+	"languages": ["HTML", "CSS", "JavaScript", "SQL", "Python", "PHP", "English", "Malayalam", "Spanish"],
 	"favorites": {
 		"color": "yellow",
 		"food": ["pizza", "cheeseburgers"],
@@ -429,7 +429,6 @@
 		{"quote": "Great things are done by a series of small things brought together."},
 		{"quote": "Hardships often prepare ordinary people for an extraordinary destiny. - C. S. Lewis"},
 		{"quote": "Do not discourage yourself with what you haven't done, encourage yourself with what you will do."},
-		{"quote": "You have been assigned to this mountain to show others that it can be moved."},
-		{"quote": "Always forward."}
+		{"quote": "You have been assigned to this mountain to show others that it can be moved."}
 	]
 }
