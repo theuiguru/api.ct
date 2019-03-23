@@ -1,6 +1,6 @@
 {
-	"firstName": "Chris",
-	"lastName": "Thomas",
+	"first_name": "Chris",
+	"last_name": "Thomas",
 	"nicknames": ["ct", "cquery", "christopher"],
 	"url": ["http://tiny.cc/cthomas", "http://ct.surge.sh"],
 	"gender": "male",
