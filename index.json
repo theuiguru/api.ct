@@ -174,7 +174,8 @@
 		"tvShows": ["2 Broke Girls", "A Million Little Things", "Angie Tribeca", "A.P. Bio", "Arrow", "Atlanta", "Better Call Saul", "Blackish", "Black Lightning", "Brooklyn Nine-Nine", "Breaking Bad", "Community", "Daredevil", "Fresh Off The Boat", "God Friended Me", "Halt and Catch Fire", "Happy Endings", "iCarly", "I Feel Bad", "Insecure", "It's Always Sunny in Philadelphia", "Jack Ryan", "Last Man Standing", "Luke Cage", "Marlon", "Master of None", "Men at Work", "Mindhunter", "Modern Family", "Mr. Robot", "My Wife and Kids", "Narcos", "New Girl", "Parks and Recreation", "Partners", "Powerless", "Prison Break", "Psych", "Rick and Morty", "Riverdale", "Scorpion", "Search Party", "Seinfeld", "Silicon Valley", "Splitting Up Together", "Star Trek: Discovery", "Stranger Things", "Suits", "Supergirl", "Superstore", "The Big Bang Theory", "The Flash", "The Good Place", "The IT Crowd", "The King of Queens", "The League", "The Mick", "The Middle", "The Mindy Project", "The Neighborhood", "The Office", "The Orville", "The Patriot Act", "The Punisher", "This Is Us", "Unbreakable Kimmy Schmidt", "VR Troopers", "Workaholics", "Young Sheldon"],
 		"actor": "Steve Carell",
 		"character": "Michael Scott",
-		"superhero": "The Flash",
+		"superhero": ["The Flash", "Power Rangers"],
+		"powerRangers": "Space",
 		"music": {
 			"genre": ["Pop", "Hip-Hop"],
 			"bands": ["Backstreet Boys", "O-Town"]
@@ -433,6 +434,7 @@
 		{"quote": "Don't let yesterday take up too much of today. - Will Rogers"},
 		{"quote": "Passion is energy. Feel the power that comes from focusing what excites you. - Oprah Winfrey"},
 		{"quote": "Your mind is a powerful thing. When you fill it with positive thoughts, your life will start to change"},
-		{"quote": "Never underestimate your problem or your ability to deal with it. - Robert Schuller"}
+		{"quote": "Never underestimate your problem or your ability to deal with it. - Robert Schuller"},
+		{"quote": "A head full of fears has no space for dreams."}
 	]
 }
