@@ -171,7 +171,7 @@
 		"color": "yellow",
 		"food": ["pizza", "cheeseburgers"],
 		"cereal": "Lucky Charms",
-		"tvShows": ["2 Broke Girls", "A Million Little Things", "Angie Tribeca", "A.P. Bio", "Arrow", "Atlanta", "Better Call Saul", "Blackish", "Black Lightning", "Brooklyn Nine-Nine", "Breaking Bad", "Community", "Daredevil", "Fresh Off The Boat", "God Friended Me", "Halt and Catch Fire", "Happy Endings", "iCarly", "I Feel Bad", "Insecure", "It's Always Sunny in Philadelphia", "Jack Ryan", "Last Man Standing", "Luke Cage", "Marlon", "Master of None", "Men at Work", "Mindhunter", "Modern Family", "Mr. Robot", "My Wife and Kids", "Narcos", "New Girl", "Parks and Recreation", "Partners", "Powerless", "Prison Break", "Psych", "Rick and Morty", "Riverdale", "Scorpion", "Search Party", "Seinfeld", "Silicon Valley", "Splitting Up Together", "Star Trek: Discovery", "Stranger Things", "Suits", "Supergirl", "Superstore", "The Big Bang Theory", "The Flash", "The Good Place", "The IT Crowd", "The King of Queens", "The League", "The Mick", "The Middle", "The Mindy Project", "The Neighborhood", "The Office", "The Orville", "The Patriot Act", "The Punisher", "This Is Us", "Unbreakable Kimmy Schmidt", "VR Troopers", "Workaholics", "Young Sheldon"],
+		"tvShows": ["2 Broke Girls", "A Million Little Things", "Angie Tribeca", "A.P. Bio", "Arrow", "Atlanta", "Better Call Saul", "Blackish", "Black Lightning", "Brooklyn Nine-Nine", "Breaking Bad", "Community", "Daredevil", "Fresh Off The Boat", "God Friended Me", "Halt and Catch Fire", "Happy Endings", "iCarly", "I Feel Bad", "Insecure", "It's Always Sunny in Philadelphia", "Jack Ryan", "Last Man Standing", "Luke Cage", "Malcolm in the Middle", "Marlon", "Master of None", "Men at Work", "Mindhunter", "Modern Family", "Mr. Robot", "My Wife and Kids", "Narcos", "New Girl", "Parks and Recreation", "Partners", "Powerless", "Prison Break", "Psych", "Rick and Morty", "Riverdale", "Scorpion", "Search Party", "Seinfeld", "Silicon Valley", "Splitting Up Together", "Star Trek: Discovery", "Stranger Things", "Suits", "Supergirl", "Superstore", "The Big Bang Theory", "The Flash", "The Good Place", "The IT Crowd", "The King of Queens", "The League", "The Mick", "The Middle", "The Mindy Project", "The Neighborhood", "The Office", "The Orville", "The Patriot Act", "The Punisher", "This Is Us", "Unbreakable Kimmy Schmidt", "VR Troopers", "Workaholics", "Young Sheldon"],
 		"actor": "Steve Carell",
 		"character": "Michael Scott",
 		"superhero": ["The Flash", "Power Rangers"],
@@ -436,6 +436,7 @@
 		{"quote": "Your mind is a powerful thing. When you fill it with positive thoughts, your life will start to change"},
 		{"quote": "Never underestimate your problem or your ability to deal with it. - Robert Schuller"},
 		{"quote": "A head full of fears has no space for dreams."},
-		{"quote": "Success isn't about being the best. It's about always getting better."}
+		{"quote": "Success isn't about being the best. It's about always getting better."},
+		{"quote": "Do what you love, not what you think you're supposed to do."}
 	]
 }
