@@ -80,6 +80,30 @@
 	],
 	"employment": [
 		{
+			"organization": "The Coder School",
+			"location": {
+				"city": "Roslyn",
+				"state": "New York",
+				"country": "US"
+			},
+			"title": "Code Coach",
+			"description": "",
+			"start_date": "April 2019",
+			"end_date": "Present"
+		},
+		{
+			"organization": "Target",
+			"location": {
+				"city": "Huntington Station",
+				"state": "New York",
+				"country": "US"
+			},
+			"title": "Logistics",
+			"description": "",
+			"start_date": "March 2019",
+			"end_date": "Present"
+		},
+		{
 			"organization": "Northwell Health",
 			"location": {
 				"city": "Manhasset",
@@ -440,5 +464,6 @@
 		{"quote": "Do what you love, not what you think you're supposed to do."},
 		{"quote": "If you have everything under control, you’re not moving fast enough."},
 		{"quote": "Keep smiling, because life is a beautiful thing and there's so much to smile about. - Marilyn Monroe"}
+		{"quote": "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it. - Michelangelo"}
 	]
 }
