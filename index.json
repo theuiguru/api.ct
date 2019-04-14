@@ -98,10 +98,10 @@
 				"state": "New York",
 				"country": "US"
 			},
-			"title": "Logistics",
+			"title": "Logistics Team Associate",
 			"description": "",
 			"start_date": "March 2019",
-			"end_date": "Present"
+			"end_date": "April 2019"
 		},
 		{
 			"organization": "Northwell Health",
@@ -465,6 +465,7 @@
 		{"quote": "If you have everything under control, you’re not moving fast enough."},
 		{"quote": "Keep smiling, because life is a beautiful thing and there's so much to smile about. - Marilyn Monroe"},
 		{"quote": "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it. - Michelangelo"},
-		{"quote": "Fall in love with the process and the results will follow. - Bradley Whitford"}
+		{"quote": "Fall in love with the process and the results will follow. - Bradley Whitford"},
+		{"quote": "Don't underestimate yourself."}
 	]
 }
