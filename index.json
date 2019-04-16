@@ -92,18 +92,6 @@
 			"end_date": "Present"
 		},
 		{
-			"organization": "Target",
-			"location": {
-				"city": "Huntington Station",
-				"state": "New York",
-				"country": "US"
-			},
-			"title": "Logistics Team Associate",
-			"description": "",
-			"start_date": "March 2019",
-			"end_date": "April 2019"
-		},
-		{
 			"organization": "Northwell Health",
 			"location": {
 				"city": "Manhasset",
