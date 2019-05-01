@@ -199,7 +199,6 @@
 		"actor": "Steve Carell",
 		"fictional_character": "Michael Scott",
 		"superhero": ["The Flash", "Power Rangers"],
-		"power_rangers": "Space",
 		"music": {
 			"genre": ["Pop", "Hip-Hop"],
 			"bands": ["Backstreet Boys", "O-Town"]
@@ -342,6 +341,10 @@
 		{
 			"title": "Learn",
 			"url": "https://theuiguru.github.io/learn"
+		},
+		{
+			"title": "Team Ortho",
+			"url": "https://theuiguru.github.io/TeamOrtho"
 		}
 	],
 	"quotes": [
