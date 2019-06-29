@@ -12,13 +12,13 @@
 		"city": "Syosset", 
 		"county": "Nassau",
 		"state": "New York", 
-		"country": "US"
+		"country": "USA"
 	},
 	"residence": {
 		"city": "Levittown",
 		"county": "Nassau",
 		"state": "New York",
-		"country": "US"
+		"country": "USA"
 	},
 	"education": [
 		{
@@ -26,7 +26,7 @@
 			"location": {
 				"city": "Levittown",
 				"state": "New York",
-				"country": "US"
+				"country": "USA"
 			},
 			"start_date": "September 1995",
 			"end_date": "June 2001"
@@ -36,7 +36,7 @@
 			"location": {
 				"city": "Levittown",
 				"state": "New York",
-				"country": "US"
+				"country": "USA"
 			},
 			"start_date": "September 2001",
 			"end_date": "June 2004"
@@ -46,7 +46,7 @@
 			"location": {
 				"city": "Levittown",
 				"state": "New York",
-				"country": "US"
+				"country": "USA"
 			},
 			"start_date": "September 2004",
 			"end_date": "June 2008",
@@ -57,7 +57,7 @@
 			"location": {
 				"city": "Old Westbury",
 				"state": "New York",
-				"country": "US"
+				"country": "USA"
 			},
 			"student_type": "Undergraduate",
 			"degree": "Bachelor of Science",
@@ -70,7 +70,7 @@
 			"location": {
 				"city": "Old Westbury",
 				"state": "New York",
-				"country": "US"
+				"country": "USA"
 			},
 			"student_type": "Graduate",
 			"degree": "Master of Science",
@@ -85,7 +85,7 @@
 			"location": {
 				"city": "Roslyn",
 				"state": "New York",
-				"country": "US"
+				"country": "USA"
 			},
 			"title": "Code Coach",
 			"description": "Assists and mentors kids in developing software programming skills.",
@@ -97,7 +97,7 @@
 			"location": {
 				"city": "Huntington Station",
 				"state": "New York",
-				"country": "US"
+				"country": "USA"
 			},
 			"title": "Logistics Specialist",
 			"start_date": "March 2019",
@@ -108,7 +108,7 @@
 			"location": {
 				"city": "Manhasset",
 				"state": "New York",
-				"country": "US"
+				"country": "USA"
 			},
 			"title": "Programmer/Analyst",
 			"description": "Providing data management support and assisting the end-user community with the development of databases, web-based applications for data entry purposes and prepare reports for end users.",
@@ -120,7 +120,7 @@
 			"location": {
 				"city": "Huntington Station",
 				"state": "New York",
-				"country": "US"
+				"country": "USA"
 			},
 			"title": "Technical Services Specialist",
 			"description": "Be the in-store example of the Microsoft vision of the customer relationship.",
@@ -132,7 +132,7 @@
 			"location": {
 				"city": "East Meadow",
 				"state": "New York",
-				"country": "US"
+				"country": "USA"
 			},
 			"title": "Data Analyst",
 			"description": "Provide patients and their caregivers with the knowledge, skills and resources to transition smoothly through the continuum of healthcare from hospitalization to a return to the community.",
@@ -144,7 +144,7 @@
 			"location": {
 				"city": "New York",
 				"state": "New York",
-				"country": "US"
+				"country": "USA"
 			},
 			"title": "Programmer",
 			"description": "Worked on side projects and real-world digital agency products and services in a wide array of languages and tools.",
@@ -156,7 +156,7 @@
 			"location": {
 				"city": "Old Westbury",
 				"state": "New York",
-				"country": "US"
+				"country": "USA"
 			},
 			"title": "Webmaster Intern",
 			"description": "Created brand-new website from scratch with front-end capabilities.",
@@ -168,7 +168,7 @@
 			"location": {
 				"city": "East Meadow",
 				"state": "New York",
-				"country": "US"
+				"country": "USA"
 			},
 			"title": "IT Intern",
 			"description": "Assisted in repairing software and hardware at several workstations.",
@@ -180,7 +180,7 @@
 			"location": {
 				"city": "Old Westbury",
 				"state": "New York",
-				"country": "US"
+				"country": "USA"
 			},
 			"title": "Technology Assistant",
 			"description": "Assisted in the Career Services department on campus, creating Powerpoint presentations and an Access career database.",
