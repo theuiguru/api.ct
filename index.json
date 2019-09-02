@@ -195,7 +195,7 @@
 		"color": "yellow",
 		"food": ["pizza", "cheeseburgers"],
 		"cereal": ["Lucky Charms", "Raisin Bran Crunch"],
-		"tv_shows": ["2 Broke Girls", "7th Heaven", "A Million Little Things", "Angie Tribeca", "A.P. Bio", "Arrow", "Atlanta", "Barry", "Better Call Saul", "Blackish", "Black Lightning", "Brooklyn Nine-Nine", "Breaking Bad", "Community", "Curb Your Enthusiasm", "Daredevil", "Four Weddings and a Funeral", "Fresh Off The Boat", "Future Man", "God Friended Me", "Halt and Catch Fire", "Happy Endings", "iCarly", "I Feel Bad", "Insecure", "It's Always Sunny in Philadelphia", "Jack Ryan", "Last Man Standing", "Luke Cage", "Malcolm in the Middle", "Marlon", "Master of None", "Men at Work", "Mindhunter", "Modern Family", "Mr. Robot", "My Wife and Kids", "Narcos", "New Girl", "Parks and Recreation", "Partners", "Powerless", "Power Rangers", "Prison Break", "Psych", "Rick and Morty", "Riverdale", "Scorpion", "Search Party", "Seinfeld", "Silicon Valley", "Splitting Up Together", "Star Trek: Discovery", "Stranger Things", "Suits", "Supergirl", "Superstore", "The Big Bang Theory", "The Boys", "The Flash", "The Good Place", "The IT Crowd", "The King of Queens", "The League", "The Mick", "The Middle", "The Mindy Project", "The Neighborhood", "The OA", "The Office", "The Orville", "The Patriot Act", "The Punisher", "This Is Us", "Unbreakable Kimmy Schmidt", "VR Troopers", "Workaholics", "Young Sheldon"],
+		"tv_shows": ["2 Broke Girls", "7th Heaven", "A Million Little Things", "Angie Tribeca", "A.P. Bio", "Arrow", "Atlanta", "Barry", "Better Call Saul", "Blackish", "Black Lightning", "Brooklyn Nine-Nine", "Breaking Bad", "Community", "Curb Your Enthusiasm", "Daredevil", "Four Weddings and a Funeral", "Fresh Off The Boat", "Future Man", "God Friended Me", "Halt and Catch Fire", "Happy Endings", "iCarly", "I Feel Bad", "Insecure", "It's Always Sunny in Philadelphia", "Jack Ryan", "Last Man Standing", "Luke Cage", "Malcolm in the Middle", "Marlon", "Master of None", "Men at Work", "Mindhunter", "Modern Family", "Mr. Robot", "My Wife and Kids", "Narcos", "New Girl", "Parks and Recreation", "Partners", "Powerless", "Power Rangers", "Prison Break", "Psych", "Rick and Morty", "Riverdale", "Scorpion", "Search Party", "Seinfeld", "Silicon Valley", "Splitting Up Together", "Star Trek: Discovery", "Stranger Things", "Suits", "Supergirl", "Superstore", "The Big Bang Theory", "The Boys", "The Flash", "The Good Place", "The IT Crowd", "The King of Queens", "The League", "The Mick", "The Middle", "The Mindy Project", "The Neighborhood", "The Office", "The Orville", "The Patriot Act", "The Punisher", "This Is Us", "Unbreakable Kimmy Schmidt", "VR Troopers", "Workaholics", "Young Sheldon"],
 		"actor": "Steve Carell",
 		"fictional_character": "Michael Scott",
 		"superheroes": ["The Flash", "Power Rangers", "Spider-Man"],
@@ -530,7 +530,6 @@
 		{"quote": "The only way to learn it is to do it."},
 		{"quote": "Don't compare your beginning to someone else's middle."},
 		{"quote": "Whether a thought is spoken or not, it is a real thing and has powers of reality."},
-		{"quote": "Balance is not something you find, it's something you create."},
 		{"quote": "Balance is not something you find, it's something you create."},
 		{"quote": "It's up to you how far you go. If you don't try, you'll never know!"}
 	]
