@@ -122,7 +122,7 @@
 				"state": "New York",
 				"country": "United States"
 			},
-			"title": "Technical Services Specialist",
+			"title": "Technical Support Specialist",
 			"description": "Be the in-store example of the Microsoft vision of the customer relationship.",
 			"start_date": "October 2015",
 			"end_date": "November 2015"
@@ -552,6 +552,7 @@
 		{"quote": "To be beautiful means to be yourself. You don't need to be accepted by others. You need to be yourself."},
 		{"quote": "Don't let the mistakes and disappointments of the past control and direct your future."},
 		{"quote": "If you really believe in what you're doing, work hard, take nothing personally and if something blocks one route, find another. Never give up."},
-		{"quote": "The privilege of a lifetime is being who you are."}
+		{"quote": "The privilege of a lifetime is being who you are."},
+		{"quote": "Look around; happiness is trying to catch you."}
 	]
 }
