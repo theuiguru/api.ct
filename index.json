@@ -333,10 +333,6 @@
 			"url": "https://vue-text-converter1.firebaseapp.com"
 		},
 		{
-			"title": "LIRR",
-			"url": "https://theuiguru.github.io/lirr"
-		},
-		{
 			"title": "To Do List",
 			"url": "https://theuiguru.github.io/toDo"
 		},
@@ -344,10 +340,6 @@
 			"title": "Learn 2 Install",
 			"url": "https://theuiguru.github.io/learn"
 		},
-		{
-			"title": "Team Ortho",
-			"url": "https://theuiguru.github.io/TeamOrtho"
-		}
 	],
 	"quotes": [
 		{"quote": "Every protagonist of every story, show, or movie is the story of my life."}, 
