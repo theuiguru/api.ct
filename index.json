@@ -189,7 +189,7 @@
 		}
 	],
 	"interests": ["Technology", "Fitness", "Philosophy", "Food", "Travel"],
-	"hobbies": ["Hacking", "Watching tv and movies", "Workout", "Meetups", "Dining"],
+	"hobbies": ["Hacking", "Watching tv and movies", "Workout", "Meetups"],
 	"languages": ["HTML", "CSS", "JavaScript", "SQL", "Python", "PHP", "English", "Malayalam", "Spanish"],
 	"favorites": {
 		"color": "yellow",
