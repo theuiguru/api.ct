@@ -190,7 +190,7 @@
 	],
 	"interests": ["Technology", "Fitness", "Philosophy", "Food", "Travel"],
 	"hobbies": ["Hacking", "Watching tv and movies", "Workout", "Meetups"],
-	"languages": ["HTML", "CSS", "JavaScript", "SQL", "Python", "PHP", "English", "Malayalam", "Spanish"],
+	"languages": ["HTML", "CSS", "JavaScript", "SQL", "English", "Malayalam", "Spanish"],
 	"favorites": {
 		"color": "yellow",
 		"food": ["pizza", "cheeseburgers"],
@@ -203,7 +203,7 @@
 			"genre": ["Pop", "Hip-Hop"],
 			"bands": ["Backstreet Boys", "O-Town"]
 		}, 
-		"sports": ["Golf", "Tennis", "Swimming", "Basketball", "Football", "Baseball"]
+		"sports": ["Golf", "Tennis", "Swimming", "Football"]
 	},
 	"social": [
 		{	
