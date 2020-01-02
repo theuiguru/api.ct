@@ -82,6 +82,18 @@
 	],
 	"employment": [
 		{
+			"organization": "Catholic Health Services",
+			"location": {
+				"city": "Melville",
+				"state": "New York",
+				"country": "United States"
+			},
+			"title": "System Analyst",
+			"description": "",
+			"start_date": "January 2020",
+			"end_date": "Present"
+		},
+		{
 			"organization": "The Coder School",
 			"location": {
 				"city": "Roslyn",
