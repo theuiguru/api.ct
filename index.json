@@ -1,6 +1,6 @@
 {
-	"firstname": "Chris",
-	"lastname": "Thomas",
+	"firstName": "Chris",
+	"lastName": "Thomas",
 	"nicknames": ["ct", "cquery", "christopher"],
 	"url": ["http://tiny.cc/cthomas", "http://ct.surge.sh", "http://christhomas.netlify.com"],
 	"gender": "male",
@@ -302,7 +302,7 @@
 		},
 		{
 			"title": "emotion.ly",
-			"url": "http://emotionly.surge.sh"
+			"url": "http://theuiguru.github.io/emotion.ly"
 		},
 		{
 			"title": "food.ie",
