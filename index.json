@@ -89,7 +89,7 @@
 				"country": "United States"
 			},
 			"title": "IT Systems Analyst",
-			"description": "Building, implementing and testing out functionalities and data requirements within Epic's Cadence (Scheduling) and Prelude (Registration) systems for clinical providers at several facilities and units.",
+			"description": "Building, implementing and testing out functionalities and data requirements within Epic's Cadence (Scheduling) and Prelude (Registration) systems for clinical providers at several facilities, clinics, and units.",
 			"start_date": "January 2020",
 			"end_date": "Present"
 		},
@@ -212,7 +212,7 @@
 		"fictional_character": "Michael Scott",
 		"superheroes": ["The Flash", "Power Rangers", "Spider-Man"],
 		"music": {
-			"genre": ["Pop", "Hip-Hop"],
+			"genre": ["Pop", "Hip-Hop", "Country"],
 			"bands": ["Backstreet Boys", "O-Town"]
 		}, 
 		"sports": ["Golf", "Tennis", "Basketball", "Swimming"]
