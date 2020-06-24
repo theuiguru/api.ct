@@ -219,40 +219,40 @@
 	},
 	"social": [
 		{	
-			"title": "blogger", "profile_url": "http://theuiguru.blogspot.com"
+			"title": "blogger", "url": "http://theuiguru.blogspot.com"
 		},
 		{
-			"title": "codepen", "profile_url": "http://codepen.io/cthomas"
+			"title": "codepen", "url": "http://codepen.io/cthomas"
 		},
                 {
-                        "title": "codesandbox", "profile_url": "http://codesandbox.io/u/theuiguru"
+                        "title": "codesandbox", "url": "http://codesandbox.io/u/theuiguru"
                 },
                 {
-                        "title": "dev", "profile_url": "http://dev.to/cquery"
+                        "title": "dev", "url": "http://dev.to/cquery"
                 },
 		{
-			"title": "medium", "profile_url": "http://medium.com/@cthomas1211"
+			"title": "medium", "url": "http://medium.com/@cthomas1211"
 		},
 		{
-			"title": "flickr", "profile_url": "http://flic.kr/theuiguru"
+			"title": "flickr", "url": "http://flic.kr/theuiguru"
 		},
 		{
-			"title": "foursquare", "profile_url": "http://foursquare.com/cthomas1211"
+			"title": "foursquare", "url": "http://foursquare.com/cthomas1211"
 		},
 		{
-			"title": "github", "profile_url": "http://github.com/theuiguru"
+			"title": "github", "url": "http://github.com/theuiguru"
 		},
 		{
-			"title": "instagram", "profile_url": "http://instagr.am/cthomas1211"
+			"title": "instagram", "url": "http://instagr.am/cthomas1211"
 		},
 		{
-			"title": "linkedin", "profile_url": "http://linkedin.com/in/christhomas101"
+			"title": "linkedin", "url": "http://linkedin.com/in/christhomas101"
 		},
 		{
-			"title": "twitter", "profile_url": "http://twitter.com/cthomas1211"
+			"title": "twitter", "url": "http://twitter.com/cthomas1211"
 		},
 		{
-			"title": "youtube", "profile_url": "http://youtube.com/ndnweb24"
+			"title": "youtube", "url": "http://youtube.com/ndnweb24"
 		}
 	],
 	"projects": [
