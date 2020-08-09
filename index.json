@@ -200,7 +200,7 @@
 			"end_date": "May 2009"
 		}
 	],
-	"interests": ["Technology", "Fitness", "Philosophy", "Food"],
+	"interests": ["Technology", "Fitness", "Philosophy"],
 	"hobbies": ["Hacking", "Entertainment", "Workout", "Meetups"],
 	"languages": ["HTML", "CSS", "JavaScript", "SQL", "Python", "PHP", "English", "Malayalam", "Spanish"],
 	"favorites": {
@@ -624,7 +624,6 @@
 		{"quote": "'Do the best you can until you know better. Then when you know better, do better.' - Maya Angelou"},
 		{"quote": "Sometimes I’ll start a sentence and I don’t even know where it’s going. I just hope I find it along the way."},
 		{"quote": "I love inside jokes. I'd love to be a part of one someday."},
-		{"quote": "I guess I've been working so hard, I forgot what it's like to be hardly working."},
 		{"quote": "I'm optimistic because everyday I get a little more desperate."},
 		{"quote": "Peace begins with a smile."},
 		{"quote": "Always turn a negative situation into a positive situation."},
