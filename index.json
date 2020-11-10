@@ -258,100 +258,76 @@
 	],
 	"projects": [
 		{
-			"title": "Ponnasseril Family",
-			"url": "http://theuiguru.github.io/ponnasseril"
+			"title": "Ponnasseril Family", "url": "http://theuiguru.github.io/ponnasseril"
 		},
 		{
-			"title": "Molethu Family",
-			"url": "http://theuiguru.github.io/molethu"
+			"title": "Molethu Family", "url": "http://theuiguru.github.io/molethu"
 		},
 		{
-			"title": "StStephensNY",
-			"url": "http://theuiguru.github.io/ststephensny/index_v2"
+			"title": "StStephensNY", "url": "http://theuiguru.github.io/ststephensny/index_v2"
 		},
 		{
-			"title": "OWWRNY",
-			"url": "http://theuiguru.github.io/owwrny"
+			"title": "OWWRNY", "url": "http://theuiguru.github.io/owwrny"
 		},
 		{
-			"title": "Orthodukso",
-			"url": "http://theuiguru.github.io/TeamOrtho/orthodukso"
+			"title": "Orthodukso", "url": "http://theuiguru.github.io/TeamOrtho/orthodukso"
 		},
 		{
-			"title": "The Lazy Eye Of Sports",
-			"url": "http://theuiguru.github.io/lazyeyeofsports"
+			"title": "The Lazy Eye Of Sports", "url": "http://theuiguru.github.io/lazyeyeofsports"
 		},
 		{
-			"title": "St. Stephen's Superbowl",
-			"url": "http://theuiguru.github.io/ststephensny/superbowl"
+			"title": "St. Stephen's Superbowl", "url": "http://theuiguru.github.io/ststephensny/superbowl"
 		},
 		{
-			"title": "MGOCSM Basketball",
-			"url": "http://theuiguru.github.io/TeamOrtho/mgocsm/ball09"
+			"title": "MGOCSM Basketball", "url": "http://theuiguru.github.io/TeamOrtho/mgocsm/ball09"
 		},
 		{
-			"title": "NYLC 2015",
-			"url": "http://theuiguru.github.io/nylc2015/v0"
+			"title": "NYLC 2015", "url": "http://theuiguru.github.io/nylc2015/v0"
 		},
 		{
-			"title": "GROWcamp.us",
-			"url": "http://theuiguru.github.io/growcamp.us"
+			"title": "GROWcamp.us", "url": "http://theuiguru.github.io/growcamp.us"
 		},
 		{
-			"title": "emotion.ly",
-			"url": "http://theuiguru.github.io/emotion.ly"
+			"title": "emotion.ly", "url": "http://theuiguru.github.io/emotion.ly"
 		},
 		{
-			"title": "food.ie",
-			"url": "http://theuiguru.github.io/food"
+			"title": "food.ie", "url": "http://theuiguru.github.io/food"
 		},
 		{
-			"title": "bdesi",
-			"url": "http://theuiguru.github.io/bdesi"
+			"title": "bdesi", "url": "http://theuiguru.github.io/bdesi"
 		},
 		{
-			"title": "Pi(e) Day",
-			"url": "http://theuiguru.github.io/piday"
+			"title": "Pi(e) Day", "url": "http://theuiguru.github.io/piday"
 		},
 		{
-			"title": "StopWatch",
-			"url": "http://theuiguru.github.io/stopWatch"
+			"title": "StopWatch", "url": "http://theuiguru.github.io/stopWatch"
 		},
 		{
-			"title": "moves",
-			"url": "http://theuiguru.github.io/moves-app"
+			"title": "moves", "url": "http://theuiguru.github.io/moves-app"
 		},
 		{
-			"title": "Games",
-			"url": "http://theuiguru.github.io/games"
+			"title": "Games", "url": "http://theuiguru.github.io/games"
 		},
 		{
-			"title": "Power Rangers",
-			"url": "http://theuiguru.github.io/PowerRangers"
+			"title": "Power Rangers", "url": "http://theuiguru.github.io/PowerRangers"
 		},
 		{
-			"title": "Dunk Fitness",
-			"url": "http://theuiguru.github.io/fitness"
+			"title": "Dunk Fitness", "url": "http://theuiguru.github.io/fitness"
 		},
 		{
-			"title": "Knapsack",
-			"url": "http://knapsack.surge.sh"
+			"title": "Knapsack", "url": "http://knapsack.surge.sh"
 		},
 		{
-			"title": "Vue Text Converter",
-			"url": "http://vue-text-converter1.firebaseapp.com"
+			"title": "Vue Text Converter", "url": "http://vue-text-converter1.firebaseapp.com"
 		},
 		{
-			"title": "To-Do List",
-			"url": "http://theuiguru.github.io/toDo"
+			"title": "To-Do List", "url": "http://theuiguru.github.io/toDo"
 		},
 		{
-			"title": "Learn 2 Install",
-			"url": "http://theuiguru.github.io/learn"
+			"title": "Learn 2 Install", "url": "http://theuiguru.github.io/learn"
 		},
 		{
-			"title": "Saint Andrew Orthodox Mission",
-			"url": "http://saintandrewli.org"
+			"title": "Saint Andrew Orthodox Mission", "url": "http://saintandrewli.org"
 		}
 	],
 	"quotes": [
