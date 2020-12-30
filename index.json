@@ -300,7 +300,7 @@
 			"title": "Pi(e) Day", "url": "http://theuiguru.github.io/piday"
 		},
 		{
-			"title": "stopWatch", "url": "http://theuiguru.github.io/stopWatch"
+			"title": "stopwatch", "url": "http://theuiguru.github.io/stopWatch"
 		},
 		{
 			"title": "moves", "url": "http://theuiguru.github.io/moves-app"
@@ -624,6 +624,7 @@
 		{"quote": "You have to think about failure as part of the formula for success."},
 		{"quote": "When you put too much pressure on yourself, you take away the fun of it."},
 		{"quote": "'The most important thing is to try and inspire people so that they can be great in whatever they want to do.' - Kobe Bryant"},
-		{"quote": "First, solve the problem. Then, write the code."}
+		{"quote": "First, solve the problem. Then, write the code."},
+		{"quote": "Every moment in our lives has infinite potentialities. Let us then try to make the best use of every moment."}
 	]
 }
