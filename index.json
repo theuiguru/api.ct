@@ -200,7 +200,7 @@
 			"end_date": "May 2009"
 		}
 	],
-	"interests": ["Technology", "Fitness", "Faith/Philosophy", "Golf"],
+	"interests": ["Technology", "Fitness", "Philosophy", "Faith", "Golf"],
 	"hobbies": ["Hacking", "Entertainment", "Workout", "Meetups"],
 	"languages": ["HTML", "CSS", "JavaScript", "SQL", "Python", "PHP", "C#", "English", "Malayalam", "Spanish"],
 	"favorites": {
@@ -623,9 +623,7 @@
 		{"quote": "When you put too much pressure on yourself, you take away the fun of it."},
 		{"quote": "'The most important thing is to try and inspire people so that they can be great in whatever they want to do.' - Kobe Bryant"},
 		{"quote": "Every moment in our lives has infinite potentialities. Let us then try to make the best use of every moment."},
-		{"quote": "Why not learn to enjoy the little things?"},
 		{"quote": "Wherever you go each day, leave a trace of goodness."},
-		{"quote": "I knew exactly what to do. But in a much more real sense, I had no idea what to do."},
 		{"quote": "The number one skill required for learning any complex system is patience."},
 		{"quote": "'The reason why worry kills more people than work is because more people worry than work.' - Robert Frost"}
 	]
