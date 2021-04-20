@@ -200,9 +200,9 @@
 			"end_date": "May 2009"
 		}
 	],
-	"interests": ["Technology", "Fitness", "Philosophy", "Theology", "Golf"],
+	"interests": ["Technology", "Fitness", "Philosophy", "Theology"],
 	"hobbies": ["Hacking", "Entertainment", "Workout", "Meetups"],
-	"languages": ["HTML", "CSS", "JavaScript", "SQL", "Python", "English", "Malayalam", "Spanish"],
+	"languages": ["HTML", "CSS", "JavaScript", "SQL", "Python", "C#", "English", "Malayalam", "Spanish"],
 	"favorites": {
 		"color": "yellow",
 		"food": "pizza",
