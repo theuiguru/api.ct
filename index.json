@@ -200,7 +200,7 @@
 			"end_date": "May 2009"
 		}
 	],
-	"interests": ["Technology", "Fitness", "Philosophy", "Theology", "Golf", "Art"],
+	"interests": ["Technology", "Fitness", "Philosophy", "Theology", "Golf"],
 	"hobbies": ["Hacking", "Entertainment", "Workout", "Meetups"],
 	"languages": ["HTML", "CSS", "JavaScript", "SQL", "Python", "C#", "English", "Malayalam", "Spanish"],
 	"favorites": {
@@ -631,7 +631,6 @@
 		{"quote": "Dreams are made possible if you try."},
                 {"quote": "As the obstacle becomes bigger, the joy in overcoming it becomes even greater."},
 		{"quote": "Curiosity is the engine of achievement."},
-		{"quote": "Try the impossible to show that it can be done."},
-		{"quote": "Create daily and your work will soar."}
+		{"quote": "Try the impossible to show that it can be done."}
 	]
 }
