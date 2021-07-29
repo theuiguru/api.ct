@@ -252,6 +252,9 @@
 	],
 	"projects": [
 		{
+			"title": "Blog", "url": "https://theuiguru.blogspot.com"
+		},
+		{
 			"title": "Ponnasseril Family", "url": "https://theuiguru.github.io/ponnasseril"
 		},
 		{
