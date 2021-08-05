@@ -220,6 +220,9 @@
 	},
 	"social": [
 		{
+			"title": "blogger", "url": "http://theuiguru.blogspot.com"
+		},
+		{
 			"title": "codepen", "url": "http://codepen.io/cthomas"
 		},
                 {
