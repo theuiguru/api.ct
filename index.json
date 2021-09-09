@@ -82,6 +82,18 @@
 	],
 	"employment": [
 		{
+			"organization": "",
+			"location": {
+				"city": "",
+				"state": "New York",
+				"country": "United States"
+			},
+			"title": "",
+			"description": "",
+			"start_date": "",
+			"end_date": "Present"
+		},
+		{
 			"organization": "Catholic Health",
 			"location": {
 				"city": "Melville",
