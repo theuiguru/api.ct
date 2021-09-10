@@ -82,15 +82,15 @@
 	],
 	"employment": [
 		{
-			"organization": "",
+			"organization": "Teachers Federal Credit Union",
 			"location": {
-				"city": "",
+				"city": "Hauppauge",
 				"state": "New York",
 				"country": "United States"
 			},
-			"title": "",
+			"title": "Web Developer",
 			"description": "",
-			"start_date": "",
+			"start_date": "September 2021",
 			"end_date": "Present"
 		},
 		{
