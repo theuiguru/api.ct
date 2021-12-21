@@ -214,7 +214,7 @@
 	],
 	"interests": ["Technology", "Fitness", "Philosophy", "Golf"],
 	"hobbies": ["Hacking", "Entertainment", "Workout", "Meetups"],
-	"languages": ["HTML", "CSS", "JavaScript", "SQL", "PHP", "Python", "English", "Malayalam", "Spanish"],
+	"languages": ["HTML", "CSS", "JavaScript", "SQL", "PHP", "Python", "C#", "English", "Malayalam", "Spanish"],
 	"favorites": {
 		"color": "yellow",
 		"food": "pizza",
@@ -672,7 +672,6 @@
 		{"quote": "If you can dream it, you can do it."},
 		{"quote": "Never let your fear decide your fate."},
 		{"quote": "If you want to find happiness, find gratitude."},
-		{"quote": "Accept life as it is. Then work to make it the way you want it to be."},
 		{"quote": "Pessimists sound smart. Optimists make money."}
 	]
 }
