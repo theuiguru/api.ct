@@ -118,17 +118,6 @@
 			"end_date": "December 2019"
 		},
 		{
-			"organization": "Target",
-			"location": {
-				"city": "Huntington Station",
-				"state": "New York",
-				"country": "United States"
-			},
-			"title": "Logistics Specialist",
-			"start_date": "March 2019",
-			"end_date": "September 2019"
-		},
-		{
 			"organization": "Northwell Health",
 			"location": {
 				"city": "Manhasset",
@@ -139,18 +128,6 @@
 			"description": "Provided data management support and assisting the end-user community with the development of database web applications for data entry purposes and prepare reports for end users.",
 			"start_date": "January 2016",
 			"end_date": "April 2018"
-		},
-		{
-			"organization": "Microsoft",
-			"location": {
-				"city": "Huntington Station",
-				"state": "New York",
-				"country": "United States"
-			},
-			"title": "Technical Support Specialist",
-			"description": "Be the in-store example of the Microsoft vision of the customer relationship.",
-			"start_date": "October 2015",
-			"end_date": "November 2015"
 		},
 		{
 			"organization": "Nassau University Medical Center",
