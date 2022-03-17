@@ -1,6 +1,6 @@
 {
-	"first_name": "Chris",
-	"last_name": "Thomas",
+	"firstName": "Chris",
+	"lastName": "Thomas",
 	"nicknames": ["ct", "cquery", "christopher"],
 	"url": ["http://tiny.cc/cthomas", "http://ct.surge.sh", "http://christhomas.netlify.com"],
 	"gender": "male",
