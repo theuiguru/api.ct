@@ -2,7 +2,7 @@
 	"firstName": "Chris",
 	"lastName": "Thomas",
 	"nicknames": ["ct", "cquery", "christopher"],
-	"url": ["http://tiny.cc/cthomas", "http://ct.surge.sh", "http://christhomas.netlify.com"],
+	"url": ["http://tiny.cc/cthomas", "http://ct.surge.sh", "http://christhomas.netlify.com", "https://registry.jsonresume.org/theuiguru"],
 	"gender": "male",
 	"zodiac": "Sagittarius", 
 	"birthday": "December 11",
@@ -688,6 +688,7 @@
 		{"quote": "When you’re curious, you find lots of interesting things to do."},
                 {"quote": "Do not compare, do not measure. No other way is like yours."},
 		{"quote": "Dude, suckin' at something is the first step to being sorta good at something."},
-                {"quote": "To those who possess the great power, all things are possible."}
+                {"quote": "To those who possess the great power, all things are possible."},
+		{"quote": "Launch and learn. Everything is progress."}
 	]
 }
