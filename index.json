@@ -82,6 +82,18 @@
 	],
 	"employment": [
 		{
+			"organization": "Mount Sinai Health System",
+			"location": {
+				"city": "New York",
+				"state": "New York",
+				"country": "United States"
+			},
+			"title": "Programmer/Analyst II",
+			"description": "",
+			"start_date": "July 2023",
+			"end_date": "Present"
+		},
+		{
 			"organization": "Teachers Federal Credit Union",
 			"location": {
 				"city": "Hauppauge",
