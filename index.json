@@ -201,7 +201,7 @@
 			"end_date": "May 2009"
 		}
 	],
-	"interests": ["Technology", "Fitness", "Philosophy", "Faith", "Golf", "Games", "Dance"],
+	"interests": ["Technology", "Fitness", "Philosophy", "Faith", "Golf"],
 	"hobbies": ["Hacking", "Entertainment", "Workout", "Meetups"],
 	"languages": ["HTML", "CSS", "JavaScript", "SQL", "Python", "C#", "PHP", "English", "Malayalam", "Spanish"],
 	"tools": ["Postman", "Jira", "Confluence", "Microsoft Office", "Adobe Suite", "Visual Studio", "Git", "ChatGPT", "Agiloft"],
