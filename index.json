@@ -202,9 +202,9 @@
 		}
 	],
 	"interests": ["Technology", "Fitness", "Philosophy", "Faith", "Golf"],
-	"hobbies": ["Family/Friends", "Hacking", "Entertainment", "Workout", "Meetups"],
+	"hobbies": ["Hacking", "Entertainment", "Workout", "Meetups"],
 	"languages": ["HTML", "CSS", "JavaScript", "SQL", "Python", "C#", "PHP", "English", "Malayalam", "Spanish"],
-	"tools": ["Postman", "Jira", "Confluence", "Microsoft Office", "Adobe Suite", "Visual Studio", "Git", "ChatGPT", "Agiloft"],
+	"tools": ["Postman", "Jira", "Confluence", "Agiloft", "Microsoft Office", "Adobe Suite", "Visual Studio", "Git", "ChatGPT"],
 	"favorites": {
 		"color": "yellow",
 		"food": "pizza",
