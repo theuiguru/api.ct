@@ -203,7 +203,7 @@
 	],
 	"interests": ["Technology", "Fitness", "Philosophy", "Faith", "Golf"],
 	"hobbies": ["Hacking", "Entertainment", "Workout", "Meetups"],
-	"languages": ["HTML", "CSS", "JavaScript", "SQL", "Python", "C#", "PHP", "English", "Malayalam", "Spanish"],
+	"languages": ["HTML", "CSS", "JavaScript", "SQL", "PHP", "Python", "C#", "English", "Malayalam", "Spanish"],
 	"tools": ["Postman", "Jira", "Confluence", "Microsoft Office", "Adobe Suite", "Visual Studio", "Git", "ChatGPT"],
 	"favorites": {
 		"color": "yellow",
