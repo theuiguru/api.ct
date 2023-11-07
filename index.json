@@ -223,37 +223,37 @@
 	},
 	"social": [
 		{
-			"title": "blogger", "url": "http://theuiguru.blogspot.com"
+			"title": "blogger", "url": "https://theuiguru.blogspot.com"
 		},
 		{
-			"title": "codepen", "url": "http://codepen.io/cthomas"
+			"title": "codepen", "url": "https://codepen.io/cthomas"
 		},
 		{
-			"title": "codesandbox", "url": "http://codesandbox.io/u/theuiguru"
+			"title": "codesandbox", "url": "https://codesandbox.io/u/theuiguru"
 		},
 		{
-			"title": "medium", "url": "http://medium.com/@cthomas1211"
+			"title": "medium", "url": "https://medium.com/@cthomas1211"
 		},
 		{
-			"title": "flickr", "url": "http://flic.kr/theuiguru"
+			"title": "flickr", "url": "https://flic.kr/theuiguru"
 		},
 		{
-			"title": "foursquare", "url": "http://foursquare.com/cthomas1211"
+			"title": "foursquare", "url": "https://foursquare.com/cthomas1211"
 		},
 		{
-			"title": "github", "url": "http://github.com/theuiguru"
+			"title": "github", "url": "https://github.com/theuiguru"
 		},
 		{
-			"title": "instagram", "url": "http://instagr.am/cthomas1211"
+			"title": "instagram", "url": "https://instagr.am/cthomas1211"
 		},
 		{
-			"title": "linkedin", "url": "http://linkedin.com/in/christhomas101"
+			"title": "linkedin", "url": "https://linkedin.com/in/christhomas101"
 		},
 		{
 			"title": "stackblitz", "url": "https://stackblitz.com/@theuiguru"
 		},
 		{
-			"title": "youtube", "url": "http://youtube.com/ndnweb24"
+			"title": "youtube", "url": "https://youtube.com/ndnweb24"
 		}
 	],
 	"projects": [
@@ -315,7 +315,7 @@
 			"title": "Knapsack Podcast", "url": "https://knapsack.surge.sh"
 		},
 		{
-			"title": "Vue Text Converter", "url": "http://vue-text-converter1.firebaseapp.com"
+			"title": "Vue Text Converter", "url": "https://vue-text-converter1.firebaseapp.com"
 		},
 		{
 			"title": "ToDo", "url": "https://theuiguru.github.io/toDo"
