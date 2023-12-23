@@ -205,7 +205,7 @@
 	"interests": ["Technology", "Fitness", "Philosophy", "Faith", "Golf"],
 	"hobbies": ["Hacking", "Entertainment", "Workout", "Meetups"],
 	"languages": ["HTML", "CSS", "JavaScript", "SQL", "PHP", "Python", "English", "Malayalam", "Spanish"],
-	"tools": ["Postman", "Jira", "Confluence", "Microsoft Office", "Adobe Suite", "Visual Studio", "Git", "ChatGPT"],
+	"tools": ["Postman", "Jira", "Microsoft Office", "Adobe Suite", "Visual Studio", "Git", "AI"],
 	"favorites": {
 		"color": "yellow",
 		"food": "pizza",
