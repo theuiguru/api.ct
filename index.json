@@ -2,7 +2,7 @@
 	"firstName": "Chris",
 	"lastName": "Thomas",
 	"nicknames": ["ct", "cquery", "christopher", "chris thomas"],
-	"url": ["http://tiny.cc/cthomas", "http://ct.surge.sh", "http://christhomas.netlify.com", "https://registry.jsonresume.org/theuiguru"],
+	"url": ["http://tiny.cc/cthomas", "http://ct.surge.sh", "http://christhomas.netlify.app", "https://registry.jsonresume.org/theuiguru"],
 	"gender": "male",
 	"zodiac": "Sagittarius",
 	"birthday": "December 11",
