@@ -214,7 +214,7 @@
 		"tv_shows": ["8 Simple Rules", "Abbott Elementary", "A.P. Bio", "Archer", "Atlanta", "average Joe", "Baby Daddy", "Barry", "Betas", "Better Call Saul", "Blackish", "Bojack Horseman", "Brooklyn Nine-Nine", "Breaking Bad", "Community", "Curb Your Enthusiasm", "Family Matters", "Fresh Off The Boat", "Full House", "Ghosts", "Good Girls", "Happy Endings", "Insecure", "Invincible", "It's Always Sunny in Philadelphia", "Jack Ryan", "Kim's Convenience", "Last Man Standing", "Lego Masters", "Luke Cage", "Malcolm in the Middle", "Mare of Easttown", "Marlon", "Men at Work", "Modern Family", "Mr. Iglesias", "Mr. In-Between", "Mr. Mayor", "Mr. Robot", "My Adventures with Superman", "Mythic Quest", "My Wife and Kids", "New Girl", "One Tree Hill", "Parks and Recreation", "Peacemaker", "Power Rangers", "Prison Break", "Reservation Dogs", "Rick and Morty", "Rocket Power", "Rules of Engagement", "Scrubs", "Seinfeld", "Shogun", "Silicon Valley", "Space Force", "Suits", "Superior Donuts", "Superstore", "Tacoma FD", "That's So Raven", "The Bear", "The Big Bang Theory", "The Boys", "The Flash", "The Good Place", "The IT Crowd", "The King of Queens", "The League", "The Mick", "The Middle", "The Mindy Project", "The Neighborhood", "The Office", "The Old Man", "The Orville", "The Patient", "The Queen's Gambit", "The Shrink Next Door", "This Is Us", "Unstable", "Upload", "VR Troopers", "What We Do In The Shadows", "Wilfred", "Young Sheldon", "Zoey's Extraordinary Playlist"],
 		"actor": "Steve Carell",
 		"character": "Michael Scott",
-		"superhero": "The Flash",
+		"superhero": ["Superman", "The Flash"],
 		"music": {
 			"genre": ["Pop", "Hip Hop", "Country"],
 			"bands": ["Backstreet Boys", "NSYNC", "O-Town"]
