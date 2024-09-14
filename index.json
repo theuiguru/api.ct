@@ -1,4 +1,4 @@
-{
+={
 	"firstName": "Chris",
 	"lastName": "Thomas",
 	"nicknames": ["ct", "cquery", "christopher", "chris thomas"],
@@ -207,7 +207,7 @@
 	"languages": ["English", "Malayalam", "Spanish"],
 	"favorites": {
 		"color": "yellow",
-		"food": "pizza",
+		"food": ["pizza", "cheeseburger"],
 		"ice_cream": "chocolate",
 		"candy": "Sour Strips",
 		"cereal": "Lucky Charms",
