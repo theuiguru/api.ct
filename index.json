@@ -207,7 +207,7 @@
 	"languages": ["English", "Malayalam", "Spanish"],
 	"favorites": {
 		"color": "yellow",
-		"food": ["pizza", "cheeseburger"],
+		"food": ["pizza", "cheeseburger", "taco/burrito"],
 		"ice_cream": "chocolate",
 		"candy": "Sour Strips",
 		"cereal": "Lucky Charms",
