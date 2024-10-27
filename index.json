@@ -226,6 +226,9 @@
 			"title": "blogger", "url": "https://theuiguru.blogspot.com"
 		},
 		{
+			"title": "bluesky", "url": "https://bsky.app/profile/cthomas.bsky.social"
+		},
+		{
 			"title": "codepen", "url": "https://codepen.io/cthomas"
 		},
 		{
@@ -261,7 +264,7 @@
 			"title": "SaintAndrewLI", "url": "https://standrewli.netlify.app"
 		},
 		{
-			"title": "OWWRNY", "url": "https://theuiguru.github.io/owwrny"
+			"title": "OWWRNY", "url": "http://theuiguru.github.io/owwrny"
 		},
 		{
 			"title": "Team Ortho", "url": "https://theuiguru.github.io/TeamOrtho"
