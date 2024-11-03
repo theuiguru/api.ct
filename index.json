@@ -219,7 +219,7 @@
 			"genre": ["Pop", "Hip Hop", "Country"],
 			"bands": ["Backstreet Boys", "NSYNC", "O-Town"]
 		}, 
-		"sports": "Golf"
+		"sports": ["Golf", "Tennis", "Basketball"]
 	},
 	"social": [
 		{
