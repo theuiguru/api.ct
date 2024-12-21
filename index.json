@@ -83,6 +83,18 @@
 	],
 	"employment": [
 		{
+			"organization": "",
+			"location": {
+				"city": "",
+				"state": "",
+				"country": "United States"
+			},
+			"title": "",
+			"description": "",
+			"start_date": "",
+			"end_date": ""
+		},
+		{
 			"organization": "Mount Sinai Health System",
 			"location": {
 				"city": "New York",
