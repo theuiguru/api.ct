@@ -89,6 +89,18 @@
 				"state": "New York",
 				"country": "United States"
 			},
+			"title": "Application Analyst III",
+			"description": "",
+			"start_date": "February 2025",
+			"end_date": "Present"
+		},
+		{
+			"organization": "Mount Sinai Health System",
+			"location": {
+				"city": "New York",
+				"state": "New York",
+				"country": "United States"
+			},
 			"title": "Programmer/Analyst II",
 			"description": "Provided technical development support for legal contract lifecycle management systems such as Agiloft and symplr's MediTract, as well as other Digital and Technology Partners (DTP) projects including user data analysis cleanup and review.",
 			"start_date": "July 2023",
