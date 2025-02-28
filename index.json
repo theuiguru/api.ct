@@ -9,7 +9,7 @@
 	"age": "35",
 	"marital_status": "Single",
 	"height": "5'11",
-	"weight": "218",
+	"weight": "215",
 	"birthplace": {
 		"city": "Syosset", 
 		"county": "Nassau",
@@ -215,7 +215,7 @@
 		}
 	],
 	"interests": ["Technology", "Fitness", "Philosophy", "Faith", "Golf"],
-	"hobbies": ["Hacking", "TV/Entertainment", "Workout", "Meetups"],
+	"hobbies": ["Hacking", "Entertainment", "Workout", "Meetups"],
 	"languages": ["English", "Malayalam", "Spanish", "HTML", "CSS", "JavaScript", "SQL", "Python", "PHP"],
 	"favorites": {
 		"color": "yellow",
