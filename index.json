@@ -228,7 +228,7 @@
 		"character": "Michael Scott",
 		"superhero": "The Flash",
 		"music": {
-			"genre": ["Pop", "Hip Hop", "Country"],
+			"genre": ["Pop"],
 			"bands": ["Backstreet Boys", "NSYNC", "O-Town"]
 		}, 
 		"sports": ["Golf", "Tennis", "Pickleball", "Volleyball", "Basketball"]
