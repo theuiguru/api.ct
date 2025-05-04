@@ -229,9 +229,9 @@
 		"superhero": "The Flash",
 		"music": {
 			"genre": ["Pop", "Country", "Punk Rock", "Hip Hop"],
-			"bands": ["Backstreet Boys", "NSYNC", "O-Town", "Sum 41"]
+			"bands": ["Backstreet Boys", "NSYNC", "O-Town", "Sum 41", "Rascal Flatts"]
 		}, 
-		"sports": ["Golf", "Tennis", "Pickleball"]
+		"sports": ["Golf", "Tennis", "Pickleball", "Basketball"]
 	},
 	"social": [
 		{
