@@ -263,87 +263,33 @@
 		}
 	],
 	"projects": [
-		{
-			"title": "Ponnasseril Family", "url": "https://theuiguru.github.io/ponnasseril"
-		},
-		{
-			"title": "Molethu Family", "url": "https://theuiguru.github.io/molethu"
-		},
-		{
-			"title": "StStephensNY", "url": "https://theuiguru.github.io/ststephensny"
-		},
-		{
-			"title": "SaintAndrewLI", "url": "https://saintandrewli.org"
-		},
-		{
-			"title": "OWWRNY", "url": "http://theuiguru.github.io/owwrny"
-		},
-		{
-			"title": "Team Ortho", "url": "https://theuiguru.github.io/TeamOrtho"
-		},
-		{
-			"title": "Orthodukso", "url": "https://theuiguru.github.io/TeamOrtho/orthodukso"
-		},
-		{
-			"title": "The Lazy Eye of Sports", "url": "https://theuiguru.github.io/lazyeyeofsports"
-		},
-		{
-			"title": "MGOCSM Basketball", "url": "https://theuiguru.github.io/TeamOrtho/mgocsm/ball09"
-		},
-		{
-			"title": "NYLC 2015", "url": "https://theuiguru.github.io/nylc2015"
-		},
-		{
-			"title": "GROWcamp.us", "url": "https://theuiguru.github.io/growcamp.us"
-		},
-		{
-			"title": "emotion.ly", "url": "https://theuiguru.github.io/emotion.ly"
-		},
-		{
-			"title": "food.ie", "url": "https://theuiguru.github.io/food"
-		},
-		{
-			"title": "bdesi", "url": "https://theuiguru.github.io/bdesi"
-		},
-		{
-			"title": "Pi(e) Day", "url": "https://theuiguru.github.io/piday"
-		},
-		{
-			"title": "stopwatch", "url": "https://theuiguru.github.io/stopWatch"
-		},
-		{
-			"title": "moves", "url": "https://theuiguru.github.io/moves-app"
-		},
-		{
-			"title": "Games", "url": "https://theuiguru.github.io/games"
-		},
-		{
-			"title": "Power Rangers", "url": "https://theuiguru.github.io/PowerRangers"
-		},
-		{
-			"title": "Dunk Fitness", "url": "https://dunkfitness.surge.sh"
-		},
-		{
-			"title": "Knapsack Podcast", "url": "https://knapsack.surge.sh"
-		},
-		{
-			"title": "Vue Text Converter", "url": "https://vue-text-converter1.firebaseapp.com"
-		},
-		{
-			"title": "ToDo", "url": "https://theuiguru.github.io/toDo"
-		},
-		{
-			"title": "Learn 2 Install", "url": "https://theuiguru.github.io/learn"
-		},
-		{
-			"title": "NEAD FYC", "url": "https://fyc2024.netlify.app"
-		},
-		{
-			"title": "Electoral Map", "url": "https://theuiguru.github.io/uselection"
-		},
-		{
-			"title": "myVotd", "url": "https://github.com/theuiguru/myVotd"
-		}
+		{ "title": "Ponnasseril Family", "url": "https://theuiguru.github.io/ponnasseril" },
+		{ "title": "Molethu Family", "url": "https://theuiguru.github.io/molethu" },
+		{ "title": "StStephensNY", "url": "https://theuiguru.github.io/ststephensny" },
+		{ "title": "SaintAndrewLI", "url": "https://saintandrewli.org" },
+		{ "title": "OWWRNY", "url": "http://theuiguru.github.io/owwrny" },
+		{ "title": "Team Ortho", "url": "https://theuiguru.github.io/TeamOrtho" },
+		{ "title": "Orthodukso", "url": "https://theuiguru.github.io/TeamOrtho/orthodukso" },
+		{ "title": "The Lazy Eye of Sports", "url": "https://theuiguru.github.io/lazyeyeofsports" },
+		{ "title": "MGOCSM Basketball", "url": "https://theuiguru.github.io/TeamOrtho/mgocsm/ball09" },
+		{ "title": "NYLC 2015", "url": "https://theuiguru.github.io/nylc2015" },
+		{ "title": "GROWcamp.us", "url": "https://theuiguru.github.io/growcamp.us" },
+		{ "title": "emotion.ly", "url": "https://theuiguru.github.io/emotion.ly" },
+		{ "title": "food.ie", "url": "https://theuiguru.github.io/food" },
+		{ "title": "bdesi", "url": "https://theuiguru.github.io/bdesi" },
+		{ "title": "Pi(e) Day", "url": "https://theuiguru.github.io/piday" },
+		{ "title": "stopwatch", "url": "https://theuiguru.github.io/stopWatch" },
+		{ "title": "moves", "url": "https://theuiguru.github.io/moves-app" },
+		{ "title": "Games", "url": "https://theuiguru.github.io/games" },
+		{ "title": "Power Rangers", "url": "https://theuiguru.github.io/PowerRangers" },
+		{ "title": "Dunk Fitness", "url": "https://dunkfitness.surge.sh" },
+		{ "title": "Knapsack Podcast", "url": "https://knapsack.surge.sh" },
+		{ "title": "Vue Text Converter", "url": "https://vue-text-converter1.firebaseapp.com" },
+		{ "title": "ToDo", "url": "https://theuiguru.github.io/toDo" },
+		{ "title": "Learn 2 Install", "url": "https://theuiguru.github.io/learn" },
+		{ "title": "NEAD FYC", "url": "https://fyc2024.netlify.app" },
+		{ "title": "Electoral Map", "url": "https://theuiguru.github.io/uselection" },
+		{ "title": "myVotd", "url": "https://github.com/theuiguru/myVotd" }
 	],
 	"quotes": [
 		{"quote": "Every protagonist of every story, show, or movie is the story of my life."}, 
