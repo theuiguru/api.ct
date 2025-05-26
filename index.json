@@ -84,11 +84,7 @@
 	"employment": [
 		{
 			"organization": "Mount Sinai Health System",
-			"location": {
-				"city": "New York (Remote)",
-				"state": "New York",
-				"country": "United States"
-			},
+			"location": { "city": "New York (Remote)", "state": "New York", "country": "United States" },
 			"title": "Application Analyst III",
 			"description": "Providing development and application support for reporting and analytics in creating real time dashboards in Tableau, as well as developing technology solutions with Python, SQL, and modern web technologies that help UKG vendor software with its GCP data hub and API developer hub portals.",
 			"start_date": "February 2025",
@@ -96,11 +92,7 @@
 		},
 		{
 			"organization": "Mount Sinai Health System",
-			"location": {
-				"city": "New York (Remote)",
-				"state": "New York",
-				"country": "United States"
-			},
+			"location": { "city": "New York (Remote)", "state": "New York", "country": "United States" },
 			"title": "Programmer/Analyst II",
 			"description": "Provided technical support for legal contract lifecycle management systems such as Agiloft pilot project and symplr's MediTract, as well as including user data analysis cleanup and review for other Digital and Technology Partners (DTP) projects.",
 			"start_date": "July 2023",
@@ -108,11 +100,7 @@
 		},
 		{
 			"organization": "Teachers Federal Credit Union",
-			"location": {
-				"city": "Hauppauge",
-				"state": "New York",
-				"country": "United States"
-			},
+			"location": { "city": "Hauppauge", "state": "New York", "country": "United States" },
 			"title": "Web Developer",
 			"description": "Assisted the Digital and IT teams in developing and analyzing digital media campaigns, offered technical support for online banking products and services, and Salesforce integration, and utilized Jira/Confluence for agile workflow of task completion and documentation, as well as prepared custom reports and dashboards.",
 			"start_date": "September 2021",
@@ -120,11 +108,7 @@
 		},
 		{
 			"organization": "Catholic Health",
-			"location": {
-				"city": "Melville",
-				"state": "New York",
-				"country": "United States"
-			},
+			"location": { "city": "Melville", "state": "New York",	"country": "United States" },
 			"title": "Systems Analyst",
 			"description": "Provided technical support for clinical and administrative front desk staff at various practices and facilities within the health system using Epic's Cadence (Scheduling) and Prelude (Registration) systems in registering patients and scheduling appointments and utilized Excel-based test scripts.",
 			"start_date": "January 2020",
@@ -132,11 +116,7 @@
 		},
 		{
 			"organization": "The Coder School",
-			"location": {
-				"city": "Roslyn",
-				"state": "New York",
-				"country": "United States"
-			},
+			"location": { "city": "Roslyn",	"state": "New York", "country": "United States" },
 			"title": "Code Coach",
 			"description": "Assisted in tutoring and mentoring kids in developing computer programming skills in a variety of languages and tools such as Python, JavaScript, and Repl.it.",
 			"start_date": "April 2019",
@@ -144,11 +124,7 @@
 		},
 		{
 			"organization": "Northwell Health",
-			"location": {
-				"city": "Manhasset",
-				"state": "New York",
-				"country": "United States"
-			},
+			"location": { "city": "Manhasset", "state": "New York", "country": "United States" },
 			"title": "Programmer/Analyst",
 			"description": "Provided data management development and support, and assistance for the clinical research end-user community with the development of database web applications for data entry purposes and prepared custom reports and dashboards.",
 			"start_date": "January 2016",
@@ -156,11 +132,7 @@
 		},
 		{
 			"organization": "Nassau University Medical Center",
-			"location": {
-				"city": "East Meadow",
-				"state": "New York",
-				"country": "United States"
-			},
+			"location": { "city": "East Meadow", "state": "New York", "country": "United States" },
 			"title": "Data Analyst",
 			"description": "Provided data management support of patients' information, and technical assistance for clinical case managers and social workers with the knowledge, skills and resources to transition smoothly through the healthcare continuum from hospitalization to a return to the community.",
 			"start_date": "May 2014",
@@ -168,10 +140,7 @@
 		},
 		{
 			"organization": "Independent Consulting",
-			"location": {
-				"state": "New York",
-				"country": "United States"
-			},
+			"location": { "state": "New York", "country": "United States" },
 			"title": "Programmer",
 			"description": "Worked on side projects and real-world digital products and services with modern web technologies and support methods to enhance a better online and mobile experience for various digital agencies and non-profit organizations.",
 			"start_date": "June 2012",
@@ -179,11 +148,7 @@
 		},
 		{
 			"organization": "Old Westbury Web Radio",
-			"location": {
-				"city": "Old Westbury",
-				"state": "New York",
-				"country": "United States"
-			},
+			"location": { "city": "Old Westbury", "state": "New York", "country": "United States" },
 			"title": "Webmaster Intern",
 			"description": "Created a brand new website from scratch with web technologies and expanded publicity throughout the student campus.",
 			"start_date": "September 2011",
@@ -191,11 +156,7 @@
 		},
 		{
 			"organization": "Nassau University Medical Center",
-			"location": {
-				"city": "East Meadow",
-				"state": "New York",
-				"country": "United States"
-			},
+			"location": { "city": "East Meadow", "state": "New York", "country": "United States" },
 			"title": "IT Intern",
 			"description": "Assisted in troubleshooting software and repaired hardware at several various hospital workstations.",
 			"start_date": "June 2010",
@@ -203,11 +164,7 @@
 		},
 		{
 			"organization": "New York Institute of Technology",
-			"location": {
-				"city": "Old Westbury",
-				"state": "New York",
-				"country": "United States"
-			},
+			"location": { "city": "Old Westbury", "state": "New York", "country": "United States" },
 			"title": "Technology Assistant",
 			"description": "Assisted in the Career Services department, created Powerpoint presentations and an Microsoft Access career database.",
 			"start_date": "September 2008",
