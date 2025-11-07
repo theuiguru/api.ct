@@ -171,7 +171,7 @@
 			"end_date": "May 2009"
 		}
 	],
-	"interests": ["Technology", "Fitness", "Faith", "Philosophy", "Golf"],
+	"interests": ["Technology", "Fitness", "Faith", "Philosophy", "Golf", "Pickleball"],
 	"hobbies": ["Hacking", "Entertainment", "Workout", "Meetups"],
 	"languages": ["English", "Malayalam", "Spanish", "HTML", "CSS", "JavaScript", "SQL", "Python", "PHP"],
 	"favorites": {
@@ -188,7 +188,7 @@
 			"genre": ["Pop", "Country"],
 			"bands": ["Backstreet Boys", "NSYNC", "O-Town", "Sum 41", "Rascal Flatts"]
 		}, 
-		"sports": ["Golf", "Tennis", "Pickleball"]
+		"sports": ["Golf", "Tennis", "Pickleball", "Basketball"]
 	},
 	"social": [
 		{ "title": "blogger", "url": "https://theuiguru.blogspot.com" },
