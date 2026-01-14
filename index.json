@@ -186,9 +186,9 @@
 		"superhero": "The Flash",
 		"music": {
 			"genre": ["Pop", "Country"],
-			"bands": ["Backstreet Boys", "NSYNC", "O-Town", "Sum 41", "Rascal Flatts"]
+			"bands": ["Backstreet Boys", "O-Town", "Sum 41"]
 		}, 
-		"sports": ["Golf", "Pickleball", "Tennis", "Football", "Basketball"]
+		"sports": ["Golf", "Pickleball"]
 	},
 	"social": [
 		{ "title": "blogger", "url": "https://theuiguru.blogspot.com" },
