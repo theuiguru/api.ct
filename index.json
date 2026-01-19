@@ -185,7 +185,7 @@
 		"character": "Michael Scott",
 		"superhero": "The Flash",
 		"music": {
-			"genre": ["Pop", "Country"],
+			"genre": ["Pop", "Country", "Punk Rock"],
 			"bands": ["Backstreet Boys", "O-Town", "Sum 41"]
 		}, 
 		"sports": ["Golf", "Pickleball"]
