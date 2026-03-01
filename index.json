@@ -84,7 +84,7 @@
 	"employment": [
 		{
 			"organization": "Mount Sinai Health System",
-			"location": { "city": "New York (Remote)", "state": "New York", "country": "United States" },
+			"location": { "city": "New York", "state": "New York", "country": "United States" },
 			"title": "Application Analyst III",
 			"description": "Providing development support for reporting and artificial intelligence in creating real time Tableau dashboards and BigQuery SQL based reports, as well as developing technology solutions with Python and modern web technologies that integrate with services.",
 			"start_date": "February 2025",
